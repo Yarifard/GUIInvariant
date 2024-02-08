@@ -1,0 +1,640 @@
+===========================================================================
+mytodolist.MainActivity$AddTaskDialog:::OBJECT
+this.TextView_208_dialogTitle_enable == this.EditText_209_name_enable
+this.TextView_208_dialogTitle_enable == this.EditText_210_text_enable
+this.TextView_208_dialogTitle_enable == this.CheckBox_211_importantCheck_enable
+this.TextView_208_dialogTitle_enable == mytodolist.MainActivity.this.FloatingActionButton_202_clearButton_enable
+this.TextView_208_dialogTitle_enable == mytodolist.MainActivity.this.FloatingActionButton_203_addButton_enable
+this.TextView_208_dialogTitle_enable == mytodolist.MainActivity.this.TextView_204_mTextStatus_enable
+this.EditText_209_name_editable == this.EditText_210_text_editable
+this.TextView_208_dialogTitle_enable == true
+this.TextView_208_dialogTitle_text != null
+this.TextView_208_dialogTitle_text != null
+this.TextView_208_dialogTitle_text.toString().equals("Add one task.")
+this.EditText_209_name_editable == false
+this.EditText_209_name_text != null
+this.EditText_209_name_length >= 0
+this.EditText_210_text_text != null
+this.EditText_210_text_length >= 0
+mytodolist.MainActivity.this != null
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text != null
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :") || mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals("The list doesn't contain any element !")
+mytodolist.MainActivity.this.ListView_205_mListView_size >= 0
+!this.TextView_208_dialogTitle_text.toString().equals(this.EditText_209_name_text.toString())
+!this.TextView_208_dialogTitle_text.toString().equals(this.EditText_210_text_text.toString())
+this.TextView_208_dialogTitle_text.toString().compareTo(mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString()) < 0
+!this.EditText_209_name_text.toString().equals(mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString())
+!this.EditText_210_text_text.toString().equals(mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString())
+===========================================================================
+mytodolist.MainActivity$AddTaskDialog.AddTaskDialog(mytodolist.MainActivity):::ENTER
+mytodolist.MainActivity.this.FloatingActionButton_202_clearButton_enable == mytodolist.MainActivity.this.FloatingActionButton_203_addButton_enable
+mytodolist.MainActivity.this.FloatingActionButton_202_clearButton_enable == mytodolist.MainActivity.this.TextView_204_mTextStatus_enable
+mytodolist.MainActivity.this != null
+mytodolist.MainActivity.this.FloatingActionButton_202_clearButton_enable == true
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text != null
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :") || mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals("The list doesn't contain any element !")
+mytodolist.MainActivity.this.ListView_205_mListView_size >= 0
+===========================================================================
+mytodolist.MainActivity$AddTaskDialog.AddTaskDialog(mytodolist.MainActivity):::EXIT
+this.TextView_208_dialogTitle_enable == \old(mytodolist.MainActivity.this.FloatingActionButton_202_clearButton_enable)
+this.TextView_208_dialogTitle_enable == \old(mytodolist.MainActivity.this.FloatingActionButton_203_addButton_enable)
+this.TextView_208_dialogTitle_enable == \old(mytodolist.MainActivity.this.TextView_204_mTextStatus_enable)
+this.EditText_209_name_editable == this.CheckBox_211_importantCheck_checked
+this.EditText_209_name_text.toString().equals(this.EditText_210_text_text.toString())
+this.EditText_209_name_length == this.EditText_210_text_length
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text == \old(mytodolist.MainActivity.this.TextView_204_mTextStatus_text)
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals(\old(mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString()))
+mytodolist.MainActivity.this.ListView_205_mListView_size == \old(mytodolist.MainActivity.this.ListView_205_mListView_size)
+this.EditText_209_name_text.toString().equals("")
+this.EditText_209_name_length == 0
+this.TextView_208_dialogTitle_text.toString().compareTo(this.EditText_209_name_text.toString()) > 0
+this.EditText_209_name_text.toString().compareTo(mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString()) < 0
+this.EditText_209_name_length <= mytodolist.MainActivity.this.ListView_205_mListView_size
+===========================================================================
+mytodolist.MainActivity$AddTaskDialog.CancelButton_onClick():::ENTER
+this.EditText_209_name_editable == this.CheckBox_211_importantCheck_checked
+this.EditText_209_name_length == mytodolist.MainActivity.this.ListView_205_mListView_size
+this != null
+this.EditText_209_name_text != null
+this.EditText_209_name_text.toString().equals("djdhj")
+this.EditText_209_name_length == 5
+this.EditText_210_text_text != null
+this.EditText_210_text_text.toString().equals("sj")
+this.EditText_210_text_length == 2
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text != null
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+===========================================================================
+mytodolist.MainActivity$AddTaskDialog.CancelButton_onClick():::EXIT
+this.TextView_208_dialogTitle_enable == \old(this.TextView_208_dialogTitle_enable)
+this.TextView_208_dialogTitle_enable == \old(this.EditText_209_name_enable)
+this.TextView_208_dialogTitle_enable == \old(this.EditText_210_text_enable)
+this.TextView_208_dialogTitle_enable == \old(this.CheckBox_211_importantCheck_enable)
+this.TextView_208_dialogTitle_enable == \old(mytodolist.MainActivity.this.FloatingActionButton_202_clearButton_enable)
+this.TextView_208_dialogTitle_enable == \old(mytodolist.MainActivity.this.FloatingActionButton_203_addButton_enable)
+this.TextView_208_dialogTitle_enable == \old(mytodolist.MainActivity.this.TextView_204_mTextStatus_enable)
+this.TextView_208_dialogTitle_text == \old(this.TextView_208_dialogTitle_text)
+this.TextView_208_dialogTitle_text.toString().equals(\old(this.TextView_208_dialogTitle_text.toString()))
+this.EditText_209_name_editable == this.CheckBox_211_importantCheck_checked
+this.EditText_209_name_editable == \old(this.EditText_209_name_editable)
+this.EditText_209_name_editable == \old(this.EditText_210_text_editable)
+this.EditText_209_name_editable == \old(this.CheckBox_211_importantCheck_checked)
+this.EditText_209_name_text == \old(this.EditText_209_name_text)
+this.EditText_209_name_text.toString().equals(\old(this.EditText_209_name_text.toString()))
+this.EditText_209_name_length == mytodolist.MainActivity.this.ListView_205_mListView_size
+this.EditText_209_name_length == \old(this.EditText_209_name_length)
+this.EditText_209_name_length == \old(mytodolist.MainActivity.this.ListView_205_mListView_size)
+this.EditText_210_text_text == \old(this.EditText_210_text_text)
+this.EditText_210_text_text.toString().equals(\old(this.EditText_210_text_text.toString()))
+this.EditText_210_text_length == \old(this.EditText_210_text_length)
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text == \old(mytodolist.MainActivity.this.TextView_204_mTextStatus_text)
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals(\old(mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString()))
+this.EditText_209_name_text != null
+this.EditText_209_name_text.toString().equals("djdhj")
+this.EditText_209_name_length == 5
+this.EditText_210_text_text != null
+this.EditText_210_text_text.toString().equals("sj")
+this.EditText_210_text_length == 2
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text != null
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+===========================================================================
+mytodolist.MainActivity$AddTaskDialog.ConfirmButton_onClick():::ENTER
+===========================================================================
+mytodolist.MainActivity$AddTaskDialog.ConfirmButton_onClick():::EXIT
+this.TextView_208_dialogTitle_enable == \old(this.TextView_208_dialogTitle_enable)
+this.TextView_208_dialogTitle_enable == \old(this.EditText_209_name_enable)
+this.TextView_208_dialogTitle_enable == \old(this.EditText_210_text_enable)
+this.TextView_208_dialogTitle_enable == \old(this.CheckBox_211_importantCheck_enable)
+this.TextView_208_dialogTitle_enable == \old(mytodolist.MainActivity.this.FloatingActionButton_202_clearButton_enable)
+this.TextView_208_dialogTitle_enable == \old(mytodolist.MainActivity.this.FloatingActionButton_203_addButton_enable)
+this.TextView_208_dialogTitle_enable == \old(mytodolist.MainActivity.this.TextView_204_mTextStatus_enable)
+this.TextView_208_dialogTitle_text == \old(this.TextView_208_dialogTitle_text)
+this.TextView_208_dialogTitle_text.toString().equals(\old(this.TextView_208_dialogTitle_text.toString()))
+this.EditText_209_name_editable == \old(this.EditText_209_name_editable)
+this.EditText_209_name_editable == \old(this.EditText_210_text_editable)
+this.EditText_209_name_text == \old(this.EditText_209_name_text)
+this.EditText_209_name_text.toString().equals(\old(this.EditText_209_name_text.toString()))
+this.EditText_209_name_length == \old(this.EditText_209_name_length)
+this.EditText_210_text_text == \old(this.EditText_210_text_text)
+this.EditText_210_text_text.toString().equals(\old(this.EditText_210_text_text.toString()))
+this.EditText_210_text_length == \old(this.EditText_210_text_length)
+this.CheckBox_211_importantCheck_checked == \old(this.CheckBox_211_importantCheck_checked)
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text != null
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+mytodolist.MainActivity.this.ListView_205_mListView_size >= 1
+this.TextView_208_dialogTitle_text.toString().compareTo(\old(mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString())) < 0
+!this.EditText_209_name_text.toString().equals(\old(mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString()))
+!this.EditText_210_text_text.toString().equals(\old(mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString()))
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().compareTo(\old(mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString())) <= 0
+mytodolist.MainActivity.this.ListView_205_mListView_size - \old(mytodolist.MainActivity.this.ListView_205_mListView_size) - 1 == 0
+===========================================================================
+mytodolist.MainActivity$DeleteListDialog:::OBJECT
+this.TextView_207_dialogTitle_enable == mytodolist.MainActivity.this.FloatingActionButton_202_clearButton_enable
+this.TextView_207_dialogTitle_enable == mytodolist.MainActivity.this.FloatingActionButton_203_addButton_enable
+this.TextView_207_dialogTitle_enable == mytodolist.MainActivity.this.TextView_204_mTextStatus_enable
+this.TextView_207_dialogTitle_enable == true
+this.TextView_207_dialogTitle_text != null
+this.TextView_207_dialogTitle_text != null
+this.TextView_207_dialogTitle_text.toString().equals("Delete tasks list.")
+mytodolist.MainActivity.this != null
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text != null
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :") || mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals("The list doesn't contain any element !")
+mytodolist.MainActivity.this.ListView_205_mListView_size >= 0
+this.TextView_207_dialogTitle_text.toString().compareTo(mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString()) < 0
+===========================================================================
+mytodolist.MainActivity$DeleteListDialog.CancelButton_onClick():::ENTER
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text != null
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+===========================================================================
+mytodolist.MainActivity$DeleteListDialog.CancelButton_onClick():::EXIT
+this.TextView_207_dialogTitle_enable == \old(this.TextView_207_dialogTitle_enable)
+this.TextView_207_dialogTitle_enable == \old(mytodolist.MainActivity.this.FloatingActionButton_202_clearButton_enable)
+this.TextView_207_dialogTitle_enable == \old(mytodolist.MainActivity.this.FloatingActionButton_203_addButton_enable)
+this.TextView_207_dialogTitle_enable == \old(mytodolist.MainActivity.this.TextView_204_mTextStatus_enable)
+this.TextView_207_dialogTitle_text == \old(this.TextView_207_dialogTitle_text)
+this.TextView_207_dialogTitle_text.toString().equals(\old(this.TextView_207_dialogTitle_text.toString()))
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text == \old(mytodolist.MainActivity.this.TextView_204_mTextStatus_text)
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals(\old(mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString()))
+mytodolist.MainActivity.this.ListView_205_mListView_size == \old(mytodolist.MainActivity.this.ListView_205_mListView_size)
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text != null
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+===========================================================================
+mytodolist.MainActivity$DeleteListDialog.ConfirmButton_onClick():::ENTER
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text != null
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+===========================================================================
+mytodolist.MainActivity$DeleteListDialog.ConfirmButton_onClick():::EXIT
+this.TextView_207_dialogTitle_enable == \old(this.TextView_207_dialogTitle_enable)
+this.TextView_207_dialogTitle_enable == \old(mytodolist.MainActivity.this.FloatingActionButton_202_clearButton_enable)
+this.TextView_207_dialogTitle_enable == \old(mytodolist.MainActivity.this.FloatingActionButton_203_addButton_enable)
+this.TextView_207_dialogTitle_enable == \old(mytodolist.MainActivity.this.TextView_204_mTextStatus_enable)
+this.TextView_207_dialogTitle_text == \old(this.TextView_207_dialogTitle_text)
+this.TextView_207_dialogTitle_text.toString().equals(\old(this.TextView_207_dialogTitle_text.toString()))
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text != null
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals("The list doesn't contain any element !")
+mytodolist.MainActivity.this.ListView_205_mListView_size == 0
+this.TextView_207_dialogTitle_text.toString().compareTo(\old(mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString())) < 0
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().compareTo(\old(mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString())) > 0
+mytodolist.MainActivity.this.ListView_205_mListView_size < \old(mytodolist.MainActivity.this.ListView_205_mListView_size)
+===========================================================================
+mytodolist.MainActivity$DeleteListDialog.DeleteListDialog(mytodolist.MainActivity):::ENTER
+mytodolist.MainActivity.this.FloatingActionButton_202_clearButton_enable == mytodolist.MainActivity.this.FloatingActionButton_203_addButton_enable
+mytodolist.MainActivity.this.FloatingActionButton_202_clearButton_enable == mytodolist.MainActivity.this.TextView_204_mTextStatus_enable
+mytodolist.MainActivity.this != null
+mytodolist.MainActivity.this.FloatingActionButton_202_clearButton_enable == true
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text != null
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text != null
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+===========================================================================
+mytodolist.MainActivity$DeleteListDialog.DeleteListDialog(mytodolist.MainActivity):::EXIT
+this.TextView_207_dialogTitle_enable == \old(mytodolist.MainActivity.this.FloatingActionButton_202_clearButton_enable)
+this.TextView_207_dialogTitle_enable == \old(mytodolist.MainActivity.this.FloatingActionButton_203_addButton_enable)
+this.TextView_207_dialogTitle_enable == \old(mytodolist.MainActivity.this.TextView_204_mTextStatus_enable)
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text == \old(mytodolist.MainActivity.this.TextView_204_mTextStatus_text)
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals(\old(mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString()))
+mytodolist.MainActivity.this.ListView_205_mListView_size == \old(mytodolist.MainActivity.this.ListView_205_mListView_size)
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text != null
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+===========================================================================
+mytodolist.MainActivity$DeleteTaskDialog:::OBJECT
+this.TextView_206_dialogTitle_enable == mytodolist.MainActivity.this.FloatingActionButton_202_clearButton_enable
+this.TextView_206_dialogTitle_enable == mytodolist.MainActivity.this.FloatingActionButton_203_addButton_enable
+this.TextView_206_dialogTitle_enable == mytodolist.MainActivity.this.TextView_204_mTextStatus_enable
+this.TextView_206_dialogTitle_enable == true
+this.TextView_206_dialogTitle_text != null
+this.TextView_206_dialogTitle_text != null
+this.TextView_206_dialogTitle_text.toString().equals("Delete task.")
+mytodolist.MainActivity.this != null
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text != null
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :") || mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals("The list doesn't contain any element !")
+this.TextView_206_dialogTitle_text.toString().compareTo(mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString()) < 0
+===========================================================================
+mytodolist.MainActivity$DeleteTaskDialog.CancelButton_onClick():::ENTER
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text != null
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+===========================================================================
+mytodolist.MainActivity$DeleteTaskDialog.CancelButton_onClick():::EXIT
+this.TextView_206_dialogTitle_enable == \old(this.TextView_206_dialogTitle_enable)
+this.TextView_206_dialogTitle_enable == \old(mytodolist.MainActivity.this.FloatingActionButton_202_clearButton_enable)
+this.TextView_206_dialogTitle_enable == \old(mytodolist.MainActivity.this.FloatingActionButton_203_addButton_enable)
+this.TextView_206_dialogTitle_enable == \old(mytodolist.MainActivity.this.TextView_204_mTextStatus_enable)
+this.TextView_206_dialogTitle_text == \old(this.TextView_206_dialogTitle_text)
+this.TextView_206_dialogTitle_text.toString().equals(\old(this.TextView_206_dialogTitle_text.toString()))
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text == \old(mytodolist.MainActivity.this.TextView_204_mTextStatus_text)
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals(\old(mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString()))
+mytodolist.MainActivity.this.ListView_205_mListView_size == \old(mytodolist.MainActivity.this.ListView_205_mListView_size)
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text != null
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+===========================================================================
+mytodolist.MainActivity$DeleteTaskDialog.ConfirmButton_onClick():::ENTER
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text != null
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+===========================================================================
+mytodolist.MainActivity$DeleteTaskDialog.ConfirmButton_onClick():::EXIT
+this.TextView_206_dialogTitle_enable == \old(this.TextView_206_dialogTitle_enable)
+this.TextView_206_dialogTitle_enable == \old(mytodolist.MainActivity.this.FloatingActionButton_202_clearButton_enable)
+this.TextView_206_dialogTitle_enable == \old(mytodolist.MainActivity.this.FloatingActionButton_203_addButton_enable)
+this.TextView_206_dialogTitle_enable == \old(mytodolist.MainActivity.this.TextView_204_mTextStatus_enable)
+this.TextView_206_dialogTitle_text == \old(this.TextView_206_dialogTitle_text)
+this.TextView_206_dialogTitle_text.toString().equals(\old(this.TextView_206_dialogTitle_text.toString()))
+this.TextView_206_dialogTitle_text.toString().compareTo(\old(mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString())) < 0
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().compareTo(\old(mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString())) >= 0
+mytodolist.MainActivity.this.ListView_205_mListView_size - \old(mytodolist.MainActivity.this.ListView_205_mListView_size) + 1 == 0
+===========================================================================
+mytodolist.MainActivity$DeleteTaskDialog.DeleteTaskDialog(mytodolist.MainActivity):::ENTER
+mytodolist.MainActivity.this.FloatingActionButton_202_clearButton_enable == mytodolist.MainActivity.this.FloatingActionButton_203_addButton_enable
+mytodolist.MainActivity.this.FloatingActionButton_202_clearButton_enable == mytodolist.MainActivity.this.TextView_204_mTextStatus_enable
+mytodolist.MainActivity.this != null
+mytodolist.MainActivity.this.FloatingActionButton_202_clearButton_enable == true
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text != null
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text != null
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+===========================================================================
+mytodolist.MainActivity$DeleteTaskDialog.DeleteTaskDialog(mytodolist.MainActivity):::EXIT
+this.TextView_206_dialogTitle_enable == \old(mytodolist.MainActivity.this.FloatingActionButton_202_clearButton_enable)
+this.TextView_206_dialogTitle_enable == \old(mytodolist.MainActivity.this.FloatingActionButton_203_addButton_enable)
+this.TextView_206_dialogTitle_enable == \old(mytodolist.MainActivity.this.TextView_204_mTextStatus_enable)
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text == \old(mytodolist.MainActivity.this.TextView_204_mTextStatus_text)
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals(\old(mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString()))
+mytodolist.MainActivity.this.ListView_205_mListView_size == \old(mytodolist.MainActivity.this.ListView_205_mListView_size)
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text != null
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+===========================================================================
+mytodolist.MainActivity$ModifyTaskDialog:::OBJECT
+this.TextView_212_dialogTitle_enable == this.EditText_213_name_enable
+this.TextView_212_dialogTitle_enable == this.EditText_214_text_enable
+this.TextView_212_dialogTitle_enable == this.CheckBox_215_importantCheck_enable
+this.TextView_212_dialogTitle_enable == mytodolist.MainActivity.this.FloatingActionButton_202_clearButton_enable
+this.TextView_212_dialogTitle_enable == mytodolist.MainActivity.this.FloatingActionButton_203_addButton_enable
+this.TextView_212_dialogTitle_enable == mytodolist.MainActivity.this.TextView_204_mTextStatus_enable
+this.EditText_213_name_editable == this.EditText_214_text_editable
+this.TextView_212_dialogTitle_enable == true
+this.TextView_212_dialogTitle_text != null
+this.TextView_212_dialogTitle_text != null
+this.TextView_212_dialogTitle_text.toString().equals("Modify task.")
+this.EditText_213_name_editable == false
+this.EditText_213_name_text != null
+this.EditText_214_text_text != null
+mytodolist.MainActivity.this != null
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text != null
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text != null
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+mytodolist.MainActivity.this.ListView_205_mListView_size >= 1
+!this.TextView_212_dialogTitle_text.toString().equals(this.EditText_213_name_text.toString())
+!this.TextView_212_dialogTitle_text.toString().equals(this.EditText_214_text_text.toString())
+this.TextView_212_dialogTitle_text.toString().compareTo(mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString()) > 0
+!this.EditText_213_name_text.toString().equals(mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString())
+!this.EditText_214_text_text.toString().equals(mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString())
+===========================================================================
+mytodolist.MainActivity$ModifyTaskDialog.CancelButton_onClick():::ENTER
+this.EditText_213_name_length == 4 || this.EditText_213_name_length == 5 || this.EditText_213_name_length == 10
+this.TextView_212_dialogTitle_text.toString().compareTo(this.EditText_213_name_text.toString()) < 0
+this.TextView_212_dialogTitle_text.toString().compareTo(this.EditText_214_text_text.toString()) < 0
+!this.EditText_213_name_text.toString().equals(this.EditText_214_text_text.toString())
+this.EditText_213_name_text.toString().compareTo(mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString()) > 0
+this.EditText_213_name_length < this.EditText_214_text_length
+this.EditText_214_text_text.toString().compareTo(mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString()) > 0
+this.EditText_214_text_length > mytodolist.MainActivity.this.ListView_205_mListView_size
+===========================================================================
+mytodolist.MainActivity$ModifyTaskDialog.CancelButton_onClick():::EXIT
+this.TextView_212_dialogTitle_enable == \old(this.TextView_212_dialogTitle_enable)
+this.TextView_212_dialogTitle_enable == \old(this.EditText_213_name_enable)
+this.TextView_212_dialogTitle_enable == \old(this.EditText_214_text_enable)
+this.TextView_212_dialogTitle_enable == \old(this.CheckBox_215_importantCheck_enable)
+this.TextView_212_dialogTitle_enable == \old(mytodolist.MainActivity.this.FloatingActionButton_202_clearButton_enable)
+this.TextView_212_dialogTitle_enable == \old(mytodolist.MainActivity.this.FloatingActionButton_203_addButton_enable)
+this.TextView_212_dialogTitle_enable == \old(mytodolist.MainActivity.this.TextView_204_mTextStatus_enable)
+this.TextView_212_dialogTitle_text == \old(this.TextView_212_dialogTitle_text)
+this.TextView_212_dialogTitle_text.toString().equals(\old(this.TextView_212_dialogTitle_text.toString()))
+this.EditText_213_name_editable == \old(this.EditText_213_name_editable)
+this.EditText_213_name_editable == \old(this.EditText_214_text_editable)
+this.EditText_213_name_text == \old(this.EditText_213_name_text)
+this.EditText_213_name_text.toString().equals(\old(this.EditText_213_name_text.toString()))
+this.EditText_213_name_length == \old(this.EditText_213_name_length)
+this.EditText_214_text_text == \old(this.EditText_214_text_text)
+this.EditText_214_text_text.toString().equals(\old(this.EditText_214_text_text.toString()))
+this.EditText_214_text_length == \old(this.EditText_214_text_length)
+this.CheckBox_215_importantCheck_checked == \old(this.CheckBox_215_importantCheck_checked)
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text == \old(mytodolist.MainActivity.this.TextView_204_mTextStatus_text)
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals(\old(mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString()))
+mytodolist.MainActivity.this.ListView_205_mListView_size == \old(mytodolist.MainActivity.this.ListView_205_mListView_size)
+this.EditText_213_name_length == 4 || this.EditText_213_name_length == 5 || this.EditText_213_name_length == 10
+this.TextView_212_dialogTitle_text.toString().compareTo(this.EditText_213_name_text.toString()) < 0
+this.TextView_212_dialogTitle_text.toString().compareTo(this.EditText_214_text_text.toString()) < 0
+!this.EditText_213_name_text.toString().equals(this.EditText_214_text_text.toString())
+this.EditText_213_name_text.toString().compareTo(mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString()) > 0
+this.EditText_213_name_length < this.EditText_214_text_length
+this.EditText_214_text_text.toString().compareTo(mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString()) > 0
+this.EditText_214_text_length > mytodolist.MainActivity.this.ListView_205_mListView_size
+===========================================================================
+mytodolist.MainActivity$ModifyTaskDialog.ConfirmButton_onClick():::ENTER
+!this.EditText_213_name_text.toString().equals(this.EditText_214_text_text.toString())
+this.EditText_213_name_length < this.EditText_214_text_length
+===========================================================================
+mytodolist.MainActivity$ModifyTaskDialog.ConfirmButton_onClick():::EXIT
+this.TextView_212_dialogTitle_enable == \old(this.TextView_212_dialogTitle_enable)
+this.TextView_212_dialogTitle_enable == \old(this.EditText_213_name_enable)
+this.TextView_212_dialogTitle_enable == \old(this.EditText_214_text_enable)
+this.TextView_212_dialogTitle_enable == \old(this.CheckBox_215_importantCheck_enable)
+this.TextView_212_dialogTitle_enable == \old(mytodolist.MainActivity.this.FloatingActionButton_202_clearButton_enable)
+this.TextView_212_dialogTitle_enable == \old(mytodolist.MainActivity.this.FloatingActionButton_203_addButton_enable)
+this.TextView_212_dialogTitle_enable == \old(mytodolist.MainActivity.this.TextView_204_mTextStatus_enable)
+this.TextView_212_dialogTitle_text == \old(this.TextView_212_dialogTitle_text)
+this.TextView_212_dialogTitle_text.toString().equals(\old(this.TextView_212_dialogTitle_text.toString()))
+this.EditText_213_name_editable == \old(this.EditText_213_name_editable)
+this.EditText_213_name_editable == \old(this.EditText_214_text_editable)
+this.EditText_213_name_text == \old(this.EditText_213_name_text)
+this.EditText_213_name_text.toString().equals(\old(this.EditText_213_name_text.toString()))
+this.EditText_213_name_length == \old(this.EditText_213_name_length)
+this.EditText_214_text_text == \old(this.EditText_214_text_text)
+this.EditText_214_text_text.toString().equals(\old(this.EditText_214_text_text.toString()))
+this.EditText_214_text_length == \old(this.EditText_214_text_length)
+this.CheckBox_215_importantCheck_checked == \old(this.CheckBox_215_importantCheck_checked)
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text == \old(mytodolist.MainActivity.this.TextView_204_mTextStatus_text)
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals(\old(mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString()))
+mytodolist.MainActivity.this.ListView_205_mListView_size == \old(mytodolist.MainActivity.this.ListView_205_mListView_size)
+!this.EditText_213_name_text.toString().equals(this.EditText_214_text_text.toString())
+this.EditText_213_name_length < this.EditText_214_text_length
+===========================================================================
+mytodolist.MainActivity$ModifyTaskDialog.ModifyTaskDialog(mytodolist.MainActivity):::ENTER
+mytodolist.MainActivity.this.FloatingActionButton_202_clearButton_enable == mytodolist.MainActivity.this.FloatingActionButton_203_addButton_enable
+mytodolist.MainActivity.this.FloatingActionButton_202_clearButton_enable == mytodolist.MainActivity.this.TextView_204_mTextStatus_enable
+mytodolist.MainActivity.this != null
+mytodolist.MainActivity.this.FloatingActionButton_202_clearButton_enable == true
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text != null
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text != null
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+mytodolist.MainActivity.this.ListView_205_mListView_size >= 1
+===========================================================================
+mytodolist.MainActivity$ModifyTaskDialog.ModifyTaskDialog(mytodolist.MainActivity):::EXIT
+this.TextView_212_dialogTitle_enable == \old(mytodolist.MainActivity.this.FloatingActionButton_202_clearButton_enable)
+this.TextView_212_dialogTitle_enable == \old(mytodolist.MainActivity.this.FloatingActionButton_203_addButton_enable)
+this.TextView_212_dialogTitle_enable == \old(mytodolist.MainActivity.this.TextView_204_mTextStatus_enable)
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text == \old(mytodolist.MainActivity.this.TextView_204_mTextStatus_text)
+mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString().equals(\old(mytodolist.MainActivity.this.TextView_204_mTextStatus_text.toString()))
+mytodolist.MainActivity.this.ListView_205_mListView_size == \old(mytodolist.MainActivity.this.ListView_205_mListView_size)
+===========================================================================
+mytodolist.MainActivity:::OBJECT
+this.FloatingActionButton_202_clearButton_enable == this.FloatingActionButton_203_addButton_enable
+this.FloatingActionButton_202_clearButton_enable == this.TextView_204_mTextStatus_enable
+this != null
+this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :") || this.TextView_204_mTextStatus_text.toString().equals("The list doesn't contain any element !") || this.TextView_204_mTextStatus_text.toString().equals("ToDo List")
+this.ListView_205_mListView_size >= 0
+===========================================================================
+mytodolist.MainActivity.AddItem():::ENTER
+this.FloatingActionButton_202_clearButton_enable == true
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :") || this.TextView_204_mTextStatus_text.toString().equals("The list doesn't contain any element !")
+===========================================================================
+mytodolist.MainActivity.AddItem():::EXIT
+this.FloatingActionButton_202_clearButton_enable == \old(this.FloatingActionButton_202_clearButton_enable)
+this.FloatingActionButton_202_clearButton_enable == \old(this.FloatingActionButton_203_addButton_enable)
+this.FloatingActionButton_202_clearButton_enable == \old(this.TextView_204_mTextStatus_enable)
+this.TextView_204_mTextStatus_text == \old(this.TextView_204_mTextStatus_text)
+this.TextView_204_mTextStatus_text.toString().equals(\old(this.TextView_204_mTextStatus_text.toString()))
+this.FloatingActionButton_202_clearButton_enable == true
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :") || this.TextView_204_mTextStatus_text.toString().equals("The list doesn't contain any element !")
+this.ListView_205_mListView_size >= 1
+this.ListView_205_mListView_size - \old(this.ListView_205_mListView_size) - 1 == 0
+===========================================================================
+mytodolist.MainActivity.MainActivity():::EXIT
+this.FloatingActionButton_202_clearButton_enable == false
+this.TextView_204_mTextStatus_text == null
+this.ListView_205_mListView_size == 0
+===========================================================================
+mytodolist.MainActivity.ModifyItem():::ENTER
+this.FloatingActionButton_202_clearButton_enable == true
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+===========================================================================
+mytodolist.MainActivity.ModifyItem():::EXIT
+this.FloatingActionButton_202_clearButton_enable == \old(this.FloatingActionButton_202_clearButton_enable)
+this.FloatingActionButton_202_clearButton_enable == \old(this.FloatingActionButton_203_addButton_enable)
+this.FloatingActionButton_202_clearButton_enable == \old(this.TextView_204_mTextStatus_enable)
+this.TextView_204_mTextStatus_text == \old(this.TextView_204_mTextStatus_text)
+this.TextView_204_mTextStatus_text.toString().equals(\old(this.TextView_204_mTextStatus_text.toString()))
+this.ListView_205_mListView_size == \old(this.ListView_205_mListView_size)
+this.FloatingActionButton_202_clearButton_enable == true
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+===========================================================================
+mytodolist.MainActivity.addButton_OnClick():::ENTER
+this.FloatingActionButton_202_clearButton_enable == true
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :") || this.TextView_204_mTextStatus_text.toString().equals("The list doesn't contain any element !")
+===========================================================================
+mytodolist.MainActivity.addButton_OnClick():::EXIT
+this.FloatingActionButton_202_clearButton_enable == \old(this.FloatingActionButton_202_clearButton_enable)
+this.FloatingActionButton_202_clearButton_enable == \old(this.FloatingActionButton_203_addButton_enable)
+this.FloatingActionButton_202_clearButton_enable == \old(this.TextView_204_mTextStatus_enable)
+this.TextView_204_mTextStatus_text == \old(this.TextView_204_mTextStatus_text)
+this.TextView_204_mTextStatus_text.toString().equals(\old(this.TextView_204_mTextStatus_text.toString()))
+this.ListView_205_mListView_size == \old(this.ListView_205_mListView_size)
+this.FloatingActionButton_202_clearButton_enable == true
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :") || this.TextView_204_mTextStatus_text.toString().equals("The list doesn't contain any element !")
+===========================================================================
+mytodolist.MainActivity.addDialog():::ENTER
+this.FloatingActionButton_202_clearButton_enable == true
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :") || this.TextView_204_mTextStatus_text.toString().equals("The list doesn't contain any element !")
+===========================================================================
+mytodolist.MainActivity.addDialog():::EXIT
+this.FloatingActionButton_202_clearButton_enable == \old(this.FloatingActionButton_202_clearButton_enable)
+this.FloatingActionButton_202_clearButton_enable == \old(this.FloatingActionButton_203_addButton_enable)
+this.FloatingActionButton_202_clearButton_enable == \old(this.TextView_204_mTextStatus_enable)
+this.TextView_204_mTextStatus_text == \old(this.TextView_204_mTextStatus_text)
+this.TextView_204_mTextStatus_text.toString().equals(\old(this.TextView_204_mTextStatus_text.toString()))
+this.ListView_205_mListView_size == \old(this.ListView_205_mListView_size)
+this.FloatingActionButton_202_clearButton_enable == true
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :") || this.TextView_204_mTextStatus_text.toString().equals("The list doesn't contain any element !")
+===========================================================================
+mytodolist.MainActivity.clearButton_OnClick():::ENTER
+this.FloatingActionButton_202_clearButton_enable == true
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+===========================================================================
+mytodolist.MainActivity.clearButton_OnClick():::EXIT
+this.FloatingActionButton_202_clearButton_enable == \old(this.FloatingActionButton_202_clearButton_enable)
+this.FloatingActionButton_202_clearButton_enable == \old(this.FloatingActionButton_203_addButton_enable)
+this.FloatingActionButton_202_clearButton_enable == \old(this.TextView_204_mTextStatus_enable)
+this.TextView_204_mTextStatus_text == \old(this.TextView_204_mTextStatus_text)
+this.TextView_204_mTextStatus_text.toString().equals(\old(this.TextView_204_mTextStatus_text.toString()))
+this.ListView_205_mListView_size == \old(this.ListView_205_mListView_size)
+this.FloatingActionButton_202_clearButton_enable == true
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+===========================================================================
+mytodolist.MainActivity.clearDialog():::ENTER
+this.FloatingActionButton_202_clearButton_enable == true
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+===========================================================================
+mytodolist.MainActivity.clearDialog():::EXIT
+this.FloatingActionButton_202_clearButton_enable == \old(this.FloatingActionButton_202_clearButton_enable)
+this.FloatingActionButton_202_clearButton_enable == \old(this.FloatingActionButton_203_addButton_enable)
+this.FloatingActionButton_202_clearButton_enable == \old(this.TextView_204_mTextStatus_enable)
+this.TextView_204_mTextStatus_text == \old(this.TextView_204_mTextStatus_text)
+this.TextView_204_mTextStatus_text.toString().equals(\old(this.TextView_204_mTextStatus_text.toString()))
+this.ListView_205_mListView_size == \old(this.ListView_205_mListView_size)
+this.FloatingActionButton_202_clearButton_enable == true
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+===========================================================================
+mytodolist.MainActivity.deleteAll():::ENTER
+this.FloatingActionButton_202_clearButton_enable == true
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+===========================================================================
+mytodolist.MainActivity.deleteAll():::EXIT
+this.FloatingActionButton_202_clearButton_enable == \old(this.FloatingActionButton_202_clearButton_enable)
+this.FloatingActionButton_202_clearButton_enable == \old(this.FloatingActionButton_203_addButton_enable)
+this.FloatingActionButton_202_clearButton_enable == \old(this.TextView_204_mTextStatus_enable)
+this.TextView_204_mTextStatus_text == \old(this.TextView_204_mTextStatus_text)
+this.TextView_204_mTextStatus_text.toString().equals(\old(this.TextView_204_mTextStatus_text.toString()))
+this.ListView_205_mListView_size == \old(this.ListView_205_mListView_size)
+this.FloatingActionButton_202_clearButton_enable == true
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+===========================================================================
+mytodolist.MainActivity.deleteOne():::ENTER
+this.FloatingActionButton_202_clearButton_enable == true
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+===========================================================================
+mytodolist.MainActivity.deleteOne():::EXIT
+this.FloatingActionButton_202_clearButton_enable == \old(this.FloatingActionButton_202_clearButton_enable)
+this.FloatingActionButton_202_clearButton_enable == \old(this.FloatingActionButton_203_addButton_enable)
+this.FloatingActionButton_202_clearButton_enable == \old(this.TextView_204_mTextStatus_enable)
+this.TextView_204_mTextStatus_text == \old(this.TextView_204_mTextStatus_text)
+this.TextView_204_mTextStatus_text.toString().equals(\old(this.TextView_204_mTextStatus_text.toString()))
+this.ListView_205_mListView_size == \old(this.ListView_205_mListView_size)
+this.FloatingActionButton_202_clearButton_enable == true
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+===========================================================================
+mytodolist.MainActivity.deleteOnePos():::ENTER
+this.FloatingActionButton_202_clearButton_enable == true
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+===========================================================================
+mytodolist.MainActivity.deleteOnePos():::EXIT
+this.FloatingActionButton_202_clearButton_enable == \old(this.FloatingActionButton_202_clearButton_enable)
+this.FloatingActionButton_202_clearButton_enable == \old(this.FloatingActionButton_203_addButton_enable)
+this.FloatingActionButton_202_clearButton_enable == \old(this.TextView_204_mTextStatus_enable)
+this.TextView_204_mTextStatus_text == \old(this.TextView_204_mTextStatus_text)
+this.TextView_204_mTextStatus_text.toString().equals(\old(this.TextView_204_mTextStatus_text.toString()))
+this.FloatingActionButton_202_clearButton_enable == true
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+this.ListView_205_mListView_size - \old(this.ListView_205_mListView_size) + 1 == 0
+===========================================================================
+mytodolist.MainActivity.generateData():::ENTER
+this.FloatingActionButton_202_clearButton_enable == true
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text.toString().equals("ToDo List")
+this.ListView_205_mListView_size == 0
+===========================================================================
+mytodolist.MainActivity.generateData():::EXIT
+this.FloatingActionButton_202_clearButton_enable == \old(this.FloatingActionButton_202_clearButton_enable)
+this.FloatingActionButton_202_clearButton_enable == \old(this.FloatingActionButton_203_addButton_enable)
+this.FloatingActionButton_202_clearButton_enable == \old(this.TextView_204_mTextStatus_enable)
+this.TextView_204_mTextStatus_text == \old(this.TextView_204_mTextStatus_text)
+this.TextView_204_mTextStatus_text.toString().equals(\old(this.TextView_204_mTextStatus_text.toString()))
+this.ListView_205_mListView_size == \old(this.ListView_205_mListView_size)
+this.FloatingActionButton_202_clearButton_enable == true
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text.toString().equals("ToDo List")
+this.ListView_205_mListView_size == 0
+===========================================================================
+mytodolist.MainActivity.mListView_OnItemClick():::ENTER
+this.FloatingActionButton_202_clearButton_enable == true
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+this.ListView_205_mListView_size >= 1
+===========================================================================
+mytodolist.MainActivity.mListView_OnItemClick():::EXIT
+this.FloatingActionButton_202_clearButton_enable == \old(this.FloatingActionButton_202_clearButton_enable)
+this.FloatingActionButton_202_clearButton_enable == \old(this.FloatingActionButton_203_addButton_enable)
+this.FloatingActionButton_202_clearButton_enable == \old(this.TextView_204_mTextStatus_enable)
+this.TextView_204_mTextStatus_text == \old(this.TextView_204_mTextStatus_text)
+this.TextView_204_mTextStatus_text.toString().equals(\old(this.TextView_204_mTextStatus_text.toString()))
+this.ListView_205_mListView_size == \old(this.ListView_205_mListView_size)
+this.FloatingActionButton_202_clearButton_enable == true
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+this.ListView_205_mListView_size >= 1
+===========================================================================
+mytodolist.MainActivity.mListView_OnItemLongClick():::ENTER
+this.FloatingActionButton_202_clearButton_enable == true
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+===========================================================================
+mytodolist.MainActivity.mListView_OnItemLongClick():::EXIT
+this.FloatingActionButton_202_clearButton_enable == \old(this.FloatingActionButton_202_clearButton_enable)
+this.FloatingActionButton_202_clearButton_enable == \old(this.FloatingActionButton_203_addButton_enable)
+this.FloatingActionButton_202_clearButton_enable == \old(this.TextView_204_mTextStatus_enable)
+this.TextView_204_mTextStatus_text == \old(this.TextView_204_mTextStatus_text)
+this.TextView_204_mTextStatus_text.toString().equals(\old(this.TextView_204_mTextStatus_text.toString()))
+this.ListView_205_mListView_size == \old(this.ListView_205_mListView_size)
+this.FloatingActionButton_202_clearButton_enable == true
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+===========================================================================
+mytodolist.MainActivity.modifyOne():::ENTER
+this.FloatingActionButton_202_clearButton_enable == true
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+this.ListView_205_mListView_size >= 1
+===========================================================================
+mytodolist.MainActivity.modifyOne():::EXIT
+this.FloatingActionButton_202_clearButton_enable == \old(this.FloatingActionButton_202_clearButton_enable)
+this.FloatingActionButton_202_clearButton_enable == \old(this.FloatingActionButton_203_addButton_enable)
+this.FloatingActionButton_202_clearButton_enable == \old(this.TextView_204_mTextStatus_enable)
+this.TextView_204_mTextStatus_text == \old(this.TextView_204_mTextStatus_text)
+this.TextView_204_mTextStatus_text.toString().equals(\old(this.TextView_204_mTextStatus_text.toString()))
+this.ListView_205_mListView_size == \old(this.ListView_205_mListView_size)
+this.FloatingActionButton_202_clearButton_enable == true
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :")
+this.ListView_205_mListView_size >= 1
+===========================================================================
+mytodolist.MainActivity.onCreate():::ENTER
+this.FloatingActionButton_202_clearButton_enable == false
+this.TextView_204_mTextStatus_text == null
+this.ListView_205_mListView_size == 0
+===========================================================================
+mytodolist.MainActivity.onCreate():::EXIT
+this.ListView_205_mListView_size == \old(this.ListView_205_mListView_size)
+this.FloatingActionButton_202_clearButton_enable == true
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text.toString().equals("The list doesn't contain any element !")
+this.ListView_205_mListView_size == 0
+===========================================================================
+mytodolist.MainActivity.refreshList():::ENTER
+this.FloatingActionButton_202_clearButton_enable == true
+this.TextView_204_mTextStatus_text != null
+===========================================================================
+mytodolist.MainActivity.refreshList():::EXIT
+this.FloatingActionButton_202_clearButton_enable == \old(this.FloatingActionButton_202_clearButton_enable)
+this.FloatingActionButton_202_clearButton_enable == \old(this.FloatingActionButton_203_addButton_enable)
+this.FloatingActionButton_202_clearButton_enable == \old(this.TextView_204_mTextStatus_enable)
+this.FloatingActionButton_202_clearButton_enable == true
+this.TextView_204_mTextStatus_text != null
+this.TextView_204_mTextStatus_text.toString().equals("Here is your list of tasks :") || this.TextView_204_mTextStatus_text.toString().equals("The list doesn't contain any element !")
+this.ListView_205_mListView_size <= \old(this.ListView_205_mListView_size)
