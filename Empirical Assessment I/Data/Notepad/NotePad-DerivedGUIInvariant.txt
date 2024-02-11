@@ -1,0 +1,1422 @@
+===========================================================================
+mynotes.AboutActivity:::OBJECT
+this.FloatingActionButton_21_fab_visibility == this.FloatingActionButton_21_fab_enable
+this.FloatingActionButton_21_fab_visibility == this.TextView_23_textview3_visibility
+this.FloatingActionButton_21_fab_visibility == this.TextView_23_textview3_enable
+this.FloatingActionButton_21_fab_visibility == this.TextView_24_appVersionTextView_visibility
+this.FloatingActionButton_21_fab_visibility == this.TextView_24_appVersionTextView_enable
+this.FloatingActionButton_21_fab_visibility == this.Button_25_viewAppBtn_visibility
+this.FloatingActionButton_21_fab_visibility == this.Button_25_viewAppBtn_enable
+this.TextView_23_textview3_text.toString().equals("A simple & open source note-taking app.")
+this.TextView_24_appVersionTextView_text.toString().equals("Version 1.0")
+this.Button_25_viewAppBtn_text.toString().equals("View app on Github")
+this.TextView_23_textview3_text.toString().compareTo(this.TextView_24_appVersionTextView_text.toString()) < 0
+this.TextView_23_textview3_text.toString().compareTo(this.Button_25_viewAppBtn_text.toString()) < 0
+this.TextView_24_appVersionTextView_text.toString().compareTo(this.Button_25_viewAppBtn_text.toString()) < 0
+===========================================================================
+mynotes.AboutActivity.AboutActivity():::EXIT
+this.TextView_23_textview3_text == this.TextView_24_appVersionTextView_text
+this.TextView_23_textview3_text == this.Button_25_viewAppBtn_text
+this.FloatingActionButton_21_fab_visibility == false
+this.TextView_23_textview3_text == null
+===========================================================================
+mynotes.AboutActivity.fab_OnClick():::ENTER
+this.FloatingActionButton_21_fab_visibility == true
+this.TextView_23_textview3_text != null
+this.TextView_24_appVersionTextView_text != null
+this.Button_25_viewAppBtn_text != null
+===========================================================================
+mynotes.AboutActivity.fab_OnClick():::EXIT
+this.FloatingActionButton_21_fab_visibility == \old(this.FloatingActionButton_21_fab_visibility)
+this.FloatingActionButton_21_fab_visibility == \old(this.FloatingActionButton_21_fab_enable)
+this.FloatingActionButton_21_fab_visibility == \old(this.TextView_23_textview3_visibility)
+this.FloatingActionButton_21_fab_visibility == \old(this.TextView_23_textview3_enable)
+this.FloatingActionButton_21_fab_visibility == \old(this.TextView_24_appVersionTextView_visibility)
+this.FloatingActionButton_21_fab_visibility == \old(this.TextView_24_appVersionTextView_enable)
+this.FloatingActionButton_21_fab_visibility == \old(this.Button_25_viewAppBtn_visibility)
+this.FloatingActionButton_21_fab_visibility == \old(this.Button_25_viewAppBtn_enable)
+this.TextView_23_textview3_text == \old(this.TextView_23_textview3_text)
+this.TextView_23_textview3_text.toString().equals(\old(this.TextView_23_textview3_text.toString()))
+this.TextView_24_appVersionTextView_text == \old(this.TextView_24_appVersionTextView_text)
+this.TextView_24_appVersionTextView_text.toString().equals(\old(this.TextView_24_appVersionTextView_text.toString()))
+this.Button_25_viewAppBtn_text == \old(this.Button_25_viewAppBtn_text)
+this.Button_25_viewAppBtn_text.toString().equals(\old(this.Button_25_viewAppBtn_text.toString()))
+this.FloatingActionButton_21_fab_visibility == true
+this.TextView_23_textview3_text != null
+this.TextView_24_appVersionTextView_text != null
+this.Button_25_viewAppBtn_text != null
+===========================================================================
+mynotes.AboutActivity.onCreate():::ENTER
+this.TextView_23_textview3_text == this.TextView_24_appVersionTextView_text
+this.TextView_23_textview3_text == this.Button_25_viewAppBtn_text
+this.FloatingActionButton_21_fab_visibility == false
+this.TextView_23_textview3_text == null
+===========================================================================
+mynotes.AboutActivity.onCreate():::EXIT
+this.FloatingActionButton_21_fab_visibility == true
+this.TextView_23_textview3_text != null
+this.TextView_24_appVersionTextView_text != null
+this.Button_25_viewAppBtn_text != null
+===========================================================================
+mynotes.AboutActivity.openGitHubRepo():::ENTER
+this.FloatingActionButton_21_fab_visibility == true
+this.TextView_23_textview3_text != null
+this.TextView_24_appVersionTextView_text != null
+this.Button_25_viewAppBtn_text != null
+===========================================================================
+mynotes.AboutActivity.openGitHubRepo():::EXIT
+this.FloatingActionButton_21_fab_visibility == \old(this.FloatingActionButton_21_fab_visibility)
+this.FloatingActionButton_21_fab_visibility == \old(this.FloatingActionButton_21_fab_enable)
+this.FloatingActionButton_21_fab_visibility == \old(this.TextView_23_textview3_visibility)
+this.FloatingActionButton_21_fab_visibility == \old(this.TextView_23_textview3_enable)
+this.FloatingActionButton_21_fab_visibility == \old(this.TextView_24_appVersionTextView_visibility)
+this.FloatingActionButton_21_fab_visibility == \old(this.TextView_24_appVersionTextView_enable)
+this.FloatingActionButton_21_fab_visibility == \old(this.Button_25_viewAppBtn_visibility)
+this.FloatingActionButton_21_fab_visibility == \old(this.Button_25_viewAppBtn_enable)
+this.TextView_23_textview3_text == \old(this.TextView_23_textview3_text)
+this.TextView_23_textview3_text.toString().equals(\old(this.TextView_23_textview3_text.toString()))
+this.TextView_24_appVersionTextView_text == \old(this.TextView_24_appVersionTextView_text)
+this.TextView_24_appVersionTextView_text.toString().equals(\old(this.TextView_24_appVersionTextView_text.toString()))
+this.Button_25_viewAppBtn_text == \old(this.Button_25_viewAppBtn_text)
+this.Button_25_viewAppBtn_text.toString().equals(\old(this.Button_25_viewAppBtn_text.toString()))
+this.FloatingActionButton_21_fab_visibility == true
+this.TextView_23_textview3_text != null
+this.TextView_24_appVersionTextView_text != null
+this.Button_25_viewAppBtn_text != null
+===========================================================================
+mynotes.AboutActivity.openWebPage():::ENTER
+this.FloatingActionButton_21_fab_visibility == true
+this.TextView_23_textview3_text != null
+this.TextView_24_appVersionTextView_text != null
+this.Button_25_viewAppBtn_text != null
+===========================================================================
+mynotes.AboutActivity.openWebPage():::EXIT
+this.FloatingActionButton_21_fab_visibility == \old(this.FloatingActionButton_21_fab_visibility)
+this.FloatingActionButton_21_fab_visibility == \old(this.FloatingActionButton_21_fab_enable)
+this.FloatingActionButton_21_fab_visibility == \old(this.TextView_23_textview3_visibility)
+this.FloatingActionButton_21_fab_visibility == \old(this.TextView_23_textview3_enable)
+this.FloatingActionButton_21_fab_visibility == \old(this.TextView_24_appVersionTextView_visibility)
+this.FloatingActionButton_21_fab_visibility == \old(this.TextView_24_appVersionTextView_enable)
+this.FloatingActionButton_21_fab_visibility == \old(this.Button_25_viewAppBtn_visibility)
+this.FloatingActionButton_21_fab_visibility == \old(this.Button_25_viewAppBtn_enable)
+this.TextView_23_textview3_text == \old(this.TextView_23_textview3_text)
+this.TextView_23_textview3_text.toString().equals(\old(this.TextView_23_textview3_text.toString()))
+this.TextView_24_appVersionTextView_text == \old(this.TextView_24_appVersionTextView_text)
+this.TextView_24_appVersionTextView_text.toString().equals(\old(this.TextView_24_appVersionTextView_text.toString()))
+this.Button_25_viewAppBtn_text == \old(this.Button_25_viewAppBtn_text)
+this.Button_25_viewAppBtn_text.toString().equals(\old(this.Button_25_viewAppBtn_text.toString()))
+this.FloatingActionButton_21_fab_visibility == true
+this.TextView_23_textview3_text != null
+this.TextView_24_appVersionTextView_text != null
+this.Button_25_viewAppBtn_text != null
+===========================================================================
+mynotes.AboutActivity.shareApp():::ENTER
+this.FloatingActionButton_21_fab_visibility == true
+this.TextView_23_textview3_text != null
+this.TextView_24_appVersionTextView_text != null
+this.Button_25_viewAppBtn_text != null
+===========================================================================
+mynotes.AboutActivity.shareApp():::EXIT
+this.FloatingActionButton_21_fab_visibility == \old(this.FloatingActionButton_21_fab_visibility)
+this.FloatingActionButton_21_fab_visibility == \old(this.FloatingActionButton_21_fab_enable)
+this.FloatingActionButton_21_fab_visibility == \old(this.TextView_23_textview3_visibility)
+this.FloatingActionButton_21_fab_visibility == \old(this.TextView_23_textview3_enable)
+this.FloatingActionButton_21_fab_visibility == \old(this.TextView_24_appVersionTextView_visibility)
+this.FloatingActionButton_21_fab_visibility == \old(this.TextView_24_appVersionTextView_enable)
+this.FloatingActionButton_21_fab_visibility == \old(this.Button_25_viewAppBtn_visibility)
+this.FloatingActionButton_21_fab_visibility == \old(this.Button_25_viewAppBtn_enable)
+this.TextView_23_textview3_text == \old(this.TextView_23_textview3_text)
+this.TextView_23_textview3_text.toString().equals(\old(this.TextView_23_textview3_text.toString()))
+this.TextView_24_appVersionTextView_text == \old(this.TextView_24_appVersionTextView_text)
+this.TextView_24_appVersionTextView_text.toString().equals(\old(this.TextView_24_appVersionTextView_text.toString()))
+this.Button_25_viewAppBtn_text == \old(this.Button_25_viewAppBtn_text)
+this.Button_25_viewAppBtn_text.toString().equals(\old(this.Button_25_viewAppBtn_text.toString()))
+this.FloatingActionButton_21_fab_visibility == true
+this.TextView_23_textview3_text != null
+this.TextView_24_appVersionTextView_text != null
+this.Button_25_viewAppBtn_text != null
+===========================================================================
+mynotes.AboutActivity.viewAppBtn_OnClick():::ENTER
+this.FloatingActionButton_21_fab_visibility == true
+this.TextView_23_textview3_text != null
+this.TextView_24_appVersionTextView_text != null
+this.Button_25_viewAppBtn_text != null
+===========================================================================
+mynotes.AboutActivity.viewAppBtn_OnClick():::EXIT
+this.FloatingActionButton_21_fab_visibility == \old(this.FloatingActionButton_21_fab_visibility)
+this.FloatingActionButton_21_fab_visibility == \old(this.FloatingActionButton_21_fab_enable)
+this.FloatingActionButton_21_fab_visibility == \old(this.TextView_23_textview3_visibility)
+this.FloatingActionButton_21_fab_visibility == \old(this.TextView_23_textview3_enable)
+this.FloatingActionButton_21_fab_visibility == \old(this.TextView_24_appVersionTextView_visibility)
+this.FloatingActionButton_21_fab_visibility == \old(this.TextView_24_appVersionTextView_enable)
+this.FloatingActionButton_21_fab_visibility == \old(this.Button_25_viewAppBtn_visibility)
+this.FloatingActionButton_21_fab_visibility == \old(this.Button_25_viewAppBtn_enable)
+this.TextView_23_textview3_text == \old(this.TextView_23_textview3_text)
+this.TextView_23_textview3_text.toString().equals(\old(this.TextView_23_textview3_text.toString()))
+this.TextView_24_appVersionTextView_text == \old(this.TextView_24_appVersionTextView_text)
+this.TextView_24_appVersionTextView_text.toString().equals(\old(this.TextView_24_appVersionTextView_text.toString()))
+this.Button_25_viewAppBtn_text == \old(this.Button_25_viewAppBtn_text)
+this.Button_25_viewAppBtn_text.toString().equals(\old(this.Button_25_viewAppBtn_text.toString()))
+this.FloatingActionButton_21_fab_visibility == true
+this.TextView_23_textview3_text != null
+this.TextView_24_appVersionTextView_text != null
+this.Button_25_viewAppBtn_text != null
+===========================================================================
+mynotes.EditorActivity$DeleteNoteDialog:::OBJECT
+this.TextView_18_dialogTitle_visibility == this.TextView_18_dialogTitle_enable
+this.TextView_18_dialogTitle_visibility == this.Button_19_button2_visibility
+this.TextView_18_dialogTitle_visibility == this.Button_19_button2_enable
+this.TextView_18_dialogTitle_visibility == this.Button_20_button3_visibility
+this.TextView_18_dialogTitle_visibility == this.Button_20_button3_enable
+this.TextView_18_dialogTitle_visibility == mynotes.EditorActivity.this.EditText_12_editor_visibility
+this.TextView_18_dialogTitle_visibility == mynotes.EditorActivity.this.EditText_12_editor_enable
+this.TextView_18_dialogTitle_visibility == mynotes.EditorActivity.this.TextView_13_textview2_visibility
+this.TextView_18_dialogTitle_visibility == mynotes.EditorActivity.this.TextView_13_textview2_enable
+this.TextView_18_dialogTitle_visibility == mynotes.EditorActivity.this.TextView_14_lastEditedDateTextView_visibility
+this.TextView_18_dialogTitle_visibility == mynotes.EditorActivity.this.TextView_14_lastEditedDateTextView_enable
+this.TextView_18_dialogTitle_visibility == mynotes.EditorActivity.this.MainMenuItem_15_Deletenote_visibility
+this.TextView_18_dialogTitle_visibility == mynotes.EditorActivity.this.MainMenuItem_15_Deletenote_enable
+this.TextView_18_dialogTitle_visibility == mynotes.EditorActivity.this.MainMenuItem_16_Sharenote_visibility
+this.TextView_18_dialogTitle_visibility == mynotes.EditorActivity.this.MainMenuItem_16_Sharenote_enable
+this.TextView_18_dialogTitle_visibility == mynotes.EditorActivity.this.MainMenuItem_17_savenote_visibility
+this.TextView_18_dialogTitle_visibility == mynotes.EditorActivity.this.MainMenuItem_17_savenote_enable
+this.TextView_18_dialogTitle_visibility == true
+this.TextView_18_dialogTitle_text != null
+this.TextView_18_dialogTitle_text != null
+this.TextView_18_dialogTitle_text.toString().equals("Delete this note?")
+this.Button_19_button2_text != null
+this.Button_19_button2_text != null
+this.Button_19_button2_text.toString().equals("Yes")
+this.Button_20_button3_text != null
+this.Button_20_button3_text != null
+this.Button_20_button3_text.toString().equals("No")
+mynotes.EditorActivity.this.EditText_12_editor_editable == false
+mynotes.EditorActivity.this.EditText_12_editor_text != null
+mynotes.EditorActivity.this.EditText_12_editor_text.toString().equals("Test conTest content") || mynotes.EditorActivity.this.EditText_12_editor_text.toString().equals("Test content") || mynotes.EditorActivity.this.EditText_12_editor_text.toString().equals("Test contentkkk")
+mynotes.EditorActivity.this.EditText_12_editor_length == 12 || mynotes.EditorActivity.this.EditText_12_editor_length == 15 || mynotes.EditorActivity.this.EditText_12_editor_length == 20
+mynotes.EditorActivity.this.TextView_13_textview2_text != null
+mynotes.EditorActivity.this.TextView_13_textview2_text != null
+mynotes.EditorActivity.this.TextView_13_textview2_text.toString().equals("Last edited:")
+mynotes.EditorActivity.this.TextView_14_lastEditedDateTextView_text != null
+mynotes.EditorActivity.this.TextView_14_lastEditedDateTextView_text.toString().equals("Sat, 9 Sep 2023 09:47 AM") || mynotes.EditorActivity.this.TextView_14_lastEditedDateTextView_text.toString().equals("Sat, 9 Sep 2023 09:48 AM")
+this.TextView_18_dialogTitle_text.toString().compareTo(this.Button_19_button2_text.toString()) < 0
+this.TextView_18_dialogTitle_text.toString().compareTo(this.Button_20_button3_text.toString()) < 0
+this.TextView_18_dialogTitle_text.toString().compareTo(mynotes.EditorActivity.this.EditText_12_editor_text.toString()) < 0
+this.TextView_18_dialogTitle_text.toString().compareTo(mynotes.EditorActivity.this.TextView_13_textview2_text.toString()) < 0
+this.TextView_18_dialogTitle_text.toString().compareTo(mynotes.EditorActivity.this.TextView_14_lastEditedDateTextView_text.toString()) < 0
+this.Button_19_button2_text.toString().compareTo(this.Button_20_button3_text.toString()) > 0
+this.Button_19_button2_text.toString().compareTo(mynotes.EditorActivity.this.EditText_12_editor_text.toString()) > 0
+this.Button_19_button2_text.toString().compareTo(mynotes.EditorActivity.this.TextView_13_textview2_text.toString()) > 0
+this.Button_19_button2_text.toString().compareTo(mynotes.EditorActivity.this.TextView_14_lastEditedDateTextView_text.toString()) > 0
+this.Button_20_button3_text.toString().compareTo(mynotes.EditorActivity.this.EditText_12_editor_text.toString()) < 0
+this.Button_20_button3_text.toString().compareTo(mynotes.EditorActivity.this.TextView_13_textview2_text.toString()) > 0
+this.Button_20_button3_text.toString().compareTo(mynotes.EditorActivity.this.TextView_14_lastEditedDateTextView_text.toString()) < 0
+mynotes.EditorActivity.this.EditText_12_editor_text.toString().compareTo(mynotes.EditorActivity.this.TextView_13_textview2_text.toString()) > 0
+mynotes.EditorActivity.this.EditText_12_editor_text.toString().compareTo(mynotes.EditorActivity.this.TextView_14_lastEditedDateTextView_text.toString()) > 0
+mynotes.EditorActivity.this.TextView_13_textview2_text.toString().compareTo(mynotes.EditorActivity.this.TextView_14_lastEditedDateTextView_text.toString()) < 0
+===========================================================================
+mynotes.EditorActivity$DeleteNoteDialog.CancelButton_onClick():::ENTER
+===========================================================================
+mynotes.EditorActivity$DeleteNoteDialog.CancelButton_onClick():::EXIT
+this.TextView_18_dialogTitle_visibility == \old(this.TextView_18_dialogTitle_visibility)
+this.TextView_18_dialogTitle_visibility == \old(this.TextView_18_dialogTitle_enable)
+this.TextView_18_dialogTitle_visibility == \old(this.Button_19_button2_visibility)
+this.TextView_18_dialogTitle_visibility == \old(this.Button_19_button2_enable)
+this.TextView_18_dialogTitle_visibility == \old(this.Button_20_button3_visibility)
+this.TextView_18_dialogTitle_visibility == \old(this.Button_20_button3_enable)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.EditText_12_editor_visibility)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.EditText_12_editor_enable)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.TextView_13_textview2_visibility)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.TextView_13_textview2_enable)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.TextView_14_lastEditedDateTextView_visibility)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.TextView_14_lastEditedDateTextView_enable)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.MainMenuItem_15_Deletenote_visibility)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.MainMenuItem_15_Deletenote_enable)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.MainMenuItem_16_Sharenote_visibility)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.MainMenuItem_16_Sharenote_enable)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.MainMenuItem_17_savenote_visibility)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.MainMenuItem_17_savenote_enable)
+this.TextView_18_dialogTitle_text == \old(this.TextView_18_dialogTitle_text)
+this.TextView_18_dialogTitle_text.toString().equals(\old(this.TextView_18_dialogTitle_text.toString()))
+this.Button_19_button2_text == \old(this.Button_19_button2_text)
+this.Button_19_button2_text.toString().equals(\old(this.Button_19_button2_text.toString()))
+this.Button_20_button3_text == \old(this.Button_20_button3_text)
+this.Button_20_button3_text.toString().equals(\old(this.Button_20_button3_text.toString()))
+mynotes.EditorActivity.this.EditText_12_editor_editable == \old(mynotes.EditorActivity.this.EditText_12_editor_editable)
+mynotes.EditorActivity.this.EditText_12_editor_text == \old(mynotes.EditorActivity.this.EditText_12_editor_text)
+mynotes.EditorActivity.this.EditText_12_editor_text.toString().equals(\old(mynotes.EditorActivity.this.EditText_12_editor_text.toString()))
+mynotes.EditorActivity.this.EditText_12_editor_length == \old(mynotes.EditorActivity.this.EditText_12_editor_length)
+mynotes.EditorActivity.this.TextView_13_textview2_text == \old(mynotes.EditorActivity.this.TextView_13_textview2_text)
+mynotes.EditorActivity.this.TextView_13_textview2_text.toString().equals(\old(mynotes.EditorActivity.this.TextView_13_textview2_text.toString()))
+mynotes.EditorActivity.this.TextView_14_lastEditedDateTextView_text == \old(mynotes.EditorActivity.this.TextView_14_lastEditedDateTextView_text)
+mynotes.EditorActivity.this.TextView_14_lastEditedDateTextView_text.toString().equals(\old(mynotes.EditorActivity.this.TextView_14_lastEditedDateTextView_text.toString()))
+===========================================================================
+mynotes.EditorActivity$DeleteNoteDialog.ConfirmButton_onClick():::ENTER
+===========================================================================
+mynotes.EditorActivity$DeleteNoteDialog.ConfirmButton_onClick():::EXIT
+this.TextView_18_dialogTitle_visibility == \old(this.TextView_18_dialogTitle_visibility)
+this.TextView_18_dialogTitle_visibility == \old(this.TextView_18_dialogTitle_enable)
+this.TextView_18_dialogTitle_visibility == \old(this.Button_19_button2_visibility)
+this.TextView_18_dialogTitle_visibility == \old(this.Button_19_button2_enable)
+this.TextView_18_dialogTitle_visibility == \old(this.Button_20_button3_visibility)
+this.TextView_18_dialogTitle_visibility == \old(this.Button_20_button3_enable)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.EditText_12_editor_visibility)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.EditText_12_editor_enable)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.TextView_13_textview2_visibility)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.TextView_13_textview2_enable)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.TextView_14_lastEditedDateTextView_visibility)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.TextView_14_lastEditedDateTextView_enable)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.MainMenuItem_15_Deletenote_visibility)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.MainMenuItem_15_Deletenote_enable)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.MainMenuItem_16_Sharenote_visibility)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.MainMenuItem_16_Sharenote_enable)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.MainMenuItem_17_savenote_visibility)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.MainMenuItem_17_savenote_enable)
+this.TextView_18_dialogTitle_text == \old(this.TextView_18_dialogTitle_text)
+this.TextView_18_dialogTitle_text.toString().equals(\old(this.TextView_18_dialogTitle_text.toString()))
+this.Button_19_button2_text == \old(this.Button_19_button2_text)
+this.Button_19_button2_text.toString().equals(\old(this.Button_19_button2_text.toString()))
+this.Button_20_button3_text == \old(this.Button_20_button3_text)
+this.Button_20_button3_text.toString().equals(\old(this.Button_20_button3_text.toString()))
+mynotes.EditorActivity.this.EditText_12_editor_editable == \old(mynotes.EditorActivity.this.EditText_12_editor_editable)
+mynotes.EditorActivity.this.EditText_12_editor_text == \old(mynotes.EditorActivity.this.EditText_12_editor_text)
+mynotes.EditorActivity.this.EditText_12_editor_text.toString().equals(\old(mynotes.EditorActivity.this.EditText_12_editor_text.toString()))
+mynotes.EditorActivity.this.EditText_12_editor_length == \old(mynotes.EditorActivity.this.EditText_12_editor_length)
+mynotes.EditorActivity.this.TextView_13_textview2_text == \old(mynotes.EditorActivity.this.TextView_13_textview2_text)
+mynotes.EditorActivity.this.TextView_13_textview2_text.toString().equals(\old(mynotes.EditorActivity.this.TextView_13_textview2_text.toString()))
+mynotes.EditorActivity.this.TextView_14_lastEditedDateTextView_text == \old(mynotes.EditorActivity.this.TextView_14_lastEditedDateTextView_text)
+mynotes.EditorActivity.this.TextView_14_lastEditedDateTextView_text.toString().equals(\old(mynotes.EditorActivity.this.TextView_14_lastEditedDateTextView_text.toString()))
+===========================================================================
+mynotes.EditorActivity$DeleteNoteDialog.DeleteNoteDialog(mynotes.EditorActivity):::ENTER
+mynotes.EditorActivity.this.EditText_12_editor_visibility == mynotes.EditorActivity.this.EditText_12_editor_enable
+mynotes.EditorActivity.this.EditText_12_editor_visibility == mynotes.EditorActivity.this.TextView_13_textview2_visibility
+mynotes.EditorActivity.this.EditText_12_editor_visibility == mynotes.EditorActivity.this.TextView_13_textview2_enable
+mynotes.EditorActivity.this.EditText_12_editor_visibility == mynotes.EditorActivity.this.TextView_14_lastEditedDateTextView_visibility
+mynotes.EditorActivity.this.EditText_12_editor_visibility == mynotes.EditorActivity.this.TextView_14_lastEditedDateTextView_enable
+mynotes.EditorActivity.this.EditText_12_editor_visibility == mynotes.EditorActivity.this.MainMenuItem_15_Deletenote_visibility
+mynotes.EditorActivity.this.EditText_12_editor_visibility == mynotes.EditorActivity.this.MainMenuItem_15_Deletenote_enable
+mynotes.EditorActivity.this.EditText_12_editor_visibility == mynotes.EditorActivity.this.MainMenuItem_16_Sharenote_visibility
+mynotes.EditorActivity.this.EditText_12_editor_visibility == mynotes.EditorActivity.this.MainMenuItem_16_Sharenote_enable
+mynotes.EditorActivity.this.EditText_12_editor_visibility == mynotes.EditorActivity.this.MainMenuItem_17_savenote_visibility
+mynotes.EditorActivity.this.EditText_12_editor_visibility == mynotes.EditorActivity.this.MainMenuItem_17_savenote_enable
+mynotes.EditorActivity.this.EditText_12_editor_visibility == true
+mynotes.EditorActivity.this.EditText_12_editor_editable == false
+mynotes.EditorActivity.this.EditText_12_editor_text.toString().equals("Test conTest content") || mynotes.EditorActivity.this.EditText_12_editor_text.toString().equals("Test content") || mynotes.EditorActivity.this.EditText_12_editor_text.toString().equals("Test contentkkk")
+mynotes.EditorActivity.this.EditText_12_editor_length == 12 || mynotes.EditorActivity.this.EditText_12_editor_length == 15 || mynotes.EditorActivity.this.EditText_12_editor_length == 20
+mynotes.EditorActivity.this.TextView_13_textview2_text != null
+mynotes.EditorActivity.this.TextView_13_textview2_text.toString().equals("Last edited:")
+mynotes.EditorActivity.this.TextView_14_lastEditedDateTextView_text.toString().equals("Sat, 9 Sep 2023 09:47 AM") || mynotes.EditorActivity.this.TextView_14_lastEditedDateTextView_text.toString().equals("Sat, 9 Sep 2023 09:48 AM")
+===========================================================================
+mynotes.EditorActivity$DeleteNoteDialog.DeleteNoteDialog(mynotes.EditorActivity):::EXIT
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.EditText_12_editor_visibility)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.EditText_12_editor_enable)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.TextView_13_textview2_visibility)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.TextView_13_textview2_enable)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.TextView_14_lastEditedDateTextView_visibility)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.TextView_14_lastEditedDateTextView_enable)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.MainMenuItem_15_Deletenote_visibility)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.MainMenuItem_15_Deletenote_enable)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.MainMenuItem_16_Sharenote_visibility)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.MainMenuItem_16_Sharenote_enable)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.MainMenuItem_17_savenote_visibility)
+this.TextView_18_dialogTitle_visibility == \old(mynotes.EditorActivity.this.MainMenuItem_17_savenote_enable)
+mynotes.EditorActivity.this.EditText_12_editor_editable == \old(mynotes.EditorActivity.this.EditText_12_editor_editable)
+mynotes.EditorActivity.this.EditText_12_editor_text == \old(mynotes.EditorActivity.this.EditText_12_editor_text)
+mynotes.EditorActivity.this.EditText_12_editor_text.toString().equals(\old(mynotes.EditorActivity.this.EditText_12_editor_text.toString()))
+mynotes.EditorActivity.this.EditText_12_editor_length == \old(mynotes.EditorActivity.this.EditText_12_editor_length)
+mynotes.EditorActivity.this.TextView_13_textview2_text == \old(mynotes.EditorActivity.this.TextView_13_textview2_text)
+mynotes.EditorActivity.this.TextView_13_textview2_text.toString().equals(\old(mynotes.EditorActivity.this.TextView_13_textview2_text.toString()))
+mynotes.EditorActivity.this.TextView_14_lastEditedDateTextView_text == \old(mynotes.EditorActivity.this.TextView_14_lastEditedDateTextView_text)
+mynotes.EditorActivity.this.TextView_14_lastEditedDateTextView_text.toString().equals(\old(mynotes.EditorActivity.this.TextView_14_lastEditedDateTextView_text.toString()))
+===========================================================================
+mynotes.EditorActivity:::OBJECT
+this.EditText_12_editor_visibility == this.EditText_12_editor_enable
+this.EditText_12_editor_visibility == this.TextView_13_textview2_visibility
+this.EditText_12_editor_visibility == this.TextView_13_textview2_enable
+this.EditText_12_editor_visibility == this.TextView_14_lastEditedDateTextView_visibility
+this.EditText_12_editor_visibility == this.TextView_14_lastEditedDateTextView_enable
+this.MainMenuItem_15_Deletenote_visibility == this.MainMenuItem_15_Deletenote_enable
+this.MainMenuItem_15_Deletenote_visibility == this.MainMenuItem_16_Sharenote_visibility
+this.MainMenuItem_15_Deletenote_visibility == this.MainMenuItem_16_Sharenote_enable
+this.MainMenuItem_17_savenote_visibility == this.MainMenuItem_17_savenote_enable
+this.EditText_12_editor_editable == false
+this.EditText_12_editor_length >= 0
+this.TextView_13_textview2_text.toString().equals("Last edited:")
+!this.EditText_12_editor_text.toString().equals(this.TextView_13_textview2_text.toString())
+!this.EditText_12_editor_text.toString().equals(this.TextView_14_lastEditedDateTextView_text.toString())
+this.TextView_13_textview2_text.toString().compareTo(this.TextView_14_lastEditedDateTextView_text.toString()) < 0
+===========================================================================
+mynotes.EditorActivity.EditorActivity():::EXIT
+this.EditText_12_editor_editable == this.MainMenuItem_15_Deletenote_visibility
+this.EditText_12_editor_editable == this.MainMenuItem_15_Deletenote_enable
+this.EditText_12_editor_editable == this.MainMenuItem_16_Sharenote_visibility
+this.EditText_12_editor_editable == this.MainMenuItem_16_Sharenote_enable
+this.EditText_12_editor_editable == this.MainMenuItem_17_savenote_visibility
+this.EditText_12_editor_editable == this.MainMenuItem_17_savenote_enable
+===========================================================================
+mynotes.EditorActivity.deleteNote():::ENTER
+this.EditText_12_editor_visibility == this.MainMenuItem_15_Deletenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_15_Deletenote_enable
+this.EditText_12_editor_visibility == this.MainMenuItem_16_Sharenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_16_Sharenote_enable
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_enable
+this.EditText_12_editor_visibility == true
+this.EditText_12_editor_text.toString().equals("Test conTest content") || this.EditText_12_editor_text.toString().equals("Test content") || this.EditText_12_editor_text.toString().equals("Test contentkkk")
+this.EditText_12_editor_length == 12 || this.EditText_12_editor_length == 15 || this.EditText_12_editor_length == 20
+this.TextView_13_textview2_text != null
+this.TextView_14_lastEditedDateTextView_text.toString().equals("Sat, 9 Sep 2023 09:47 AM") || this.TextView_14_lastEditedDateTextView_text.toString().equals("Sat, 9 Sep 2023 09:48 AM")
+===========================================================================
+mynotes.EditorActivity.deleteNote():::EXIT
+this.EditText_12_editor_visibility == this.MainMenuItem_15_Deletenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_15_Deletenote_enable
+this.EditText_12_editor_visibility == this.MainMenuItem_16_Sharenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_16_Sharenote_enable
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_enable
+this.EditText_12_editor_visibility == \old(this.EditText_12_editor_visibility)
+this.EditText_12_editor_visibility == \old(this.EditText_12_editor_enable)
+this.EditText_12_editor_visibility == \old(this.TextView_13_textview2_visibility)
+this.EditText_12_editor_visibility == \old(this.TextView_13_textview2_enable)
+this.EditText_12_editor_visibility == \old(this.TextView_14_lastEditedDateTextView_visibility)
+this.EditText_12_editor_visibility == \old(this.TextView_14_lastEditedDateTextView_enable)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_15_Deletenote_visibility)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_15_Deletenote_enable)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_16_Sharenote_visibility)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_16_Sharenote_enable)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_17_savenote_visibility)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_17_savenote_enable)
+this.EditText_12_editor_editable == \old(this.EditText_12_editor_editable)
+this.EditText_12_editor_text == \old(this.EditText_12_editor_text)
+this.EditText_12_editor_text.toString().equals(\old(this.EditText_12_editor_text.toString()))
+this.EditText_12_editor_length == \old(this.EditText_12_editor_length)
+this.TextView_13_textview2_text == \old(this.TextView_13_textview2_text)
+this.TextView_13_textview2_text.toString().equals(\old(this.TextView_13_textview2_text.toString()))
+this.TextView_14_lastEditedDateTextView_text == \old(this.TextView_14_lastEditedDateTextView_text)
+this.TextView_14_lastEditedDateTextView_text.toString().equals(\old(this.TextView_14_lastEditedDateTextView_text.toString()))
+this.EditText_12_editor_visibility == true
+this.EditText_12_editor_text.toString().equals("Test conTest content") || this.EditText_12_editor_text.toString().equals("Test content") || this.EditText_12_editor_text.toString().equals("Test contentkkk")
+this.EditText_12_editor_length == 12 || this.EditText_12_editor_length == 15 || this.EditText_12_editor_length == 20
+this.TextView_13_textview2_text != null
+this.TextView_14_lastEditedDateTextView_text.toString().equals("Sat, 9 Sep 2023 09:47 AM") || this.TextView_14_lastEditedDateTextView_text.toString().equals("Sat, 9 Sep 2023 09:48 AM")
+===========================================================================
+mynotes.EditorActivity.finishEditing():::ENTER
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_enable
+this.EditText_12_editor_visibility == true
+this.EditText_12_editor_text != null
+this.TextView_13_textview2_text != null
+this.TextView_13_textview2_text != null
+this.TextView_14_lastEditedDateTextView_text != null
+===========================================================================
+mynotes.EditorActivity.finishEditing():::EXIT
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_enable
+this.EditText_12_editor_visibility == \old(this.EditText_12_editor_visibility)
+this.EditText_12_editor_visibility == \old(this.EditText_12_editor_enable)
+this.EditText_12_editor_visibility == \old(this.TextView_13_textview2_visibility)
+this.EditText_12_editor_visibility == \old(this.TextView_13_textview2_enable)
+this.EditText_12_editor_visibility == \old(this.TextView_14_lastEditedDateTextView_visibility)
+this.EditText_12_editor_visibility == \old(this.TextView_14_lastEditedDateTextView_enable)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_17_savenote_visibility)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_17_savenote_enable)
+this.EditText_12_editor_editable == \old(this.EditText_12_editor_editable)
+this.EditText_12_editor_text == \old(this.EditText_12_editor_text)
+this.EditText_12_editor_text.toString().equals(\old(this.EditText_12_editor_text.toString()))
+this.EditText_12_editor_length == \old(this.EditText_12_editor_length)
+this.TextView_13_textview2_text == \old(this.TextView_13_textview2_text)
+this.TextView_13_textview2_text.toString().equals(\old(this.TextView_13_textview2_text.toString()))
+this.TextView_14_lastEditedDateTextView_text == \old(this.TextView_14_lastEditedDateTextView_text)
+this.TextView_14_lastEditedDateTextView_text.toString().equals(\old(this.TextView_14_lastEditedDateTextView_text.toString()))
+this.MainMenuItem_15_Deletenote_visibility == \old(this.MainMenuItem_15_Deletenote_visibility)
+this.MainMenuItem_15_Deletenote_visibility == \old(this.MainMenuItem_15_Deletenote_enable)
+this.MainMenuItem_15_Deletenote_visibility == \old(this.MainMenuItem_16_Sharenote_visibility)
+this.MainMenuItem_15_Deletenote_visibility == \old(this.MainMenuItem_16_Sharenote_enable)
+this.EditText_12_editor_visibility == true
+this.EditText_12_editor_text != null
+this.TextView_13_textview2_text != null
+this.TextView_13_textview2_text != null
+this.TextView_14_lastEditedDateTextView_text != null
+===========================================================================
+mynotes.EditorActivity.insertNote():::ENTER
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_enable
+this.EditText_12_editor_editable == this.MainMenuItem_15_Deletenote_visibility
+this.EditText_12_editor_editable == this.MainMenuItem_15_Deletenote_enable
+this.EditText_12_editor_editable == this.MainMenuItem_16_Sharenote_visibility
+this.EditText_12_editor_editable == this.MainMenuItem_16_Sharenote_enable
+this.EditText_12_editor_visibility == true
+this.EditText_12_editor_text != null
+this.EditText_12_editor_text.toString().equals("Hi") || this.EditText_12_editor_text.toString().equals("Hi ali") || this.EditText_12_editor_text.toString().equals("Test content")
+this.EditText_12_editor_length == 2 || this.EditText_12_editor_length == 6 || this.EditText_12_editor_length == 12
+this.TextView_13_textview2_text != null
+this.TextView_13_textview2_text != null
+this.TextView_14_lastEditedDateTextView_text != null
+this.TextView_14_lastEditedDateTextView_text != null
+this.TextView_14_lastEditedDateTextView_text.toString().equals("yyyy-MM-dd HH:mm:ss")
+this.EditText_12_editor_text.toString().compareTo(this.TextView_14_lastEditedDateTextView_text.toString()) < 0
+===========================================================================
+mynotes.EditorActivity.insertNote():::EXIT
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_enable
+this.EditText_12_editor_visibility == \old(this.EditText_12_editor_visibility)
+this.EditText_12_editor_visibility == \old(this.EditText_12_editor_enable)
+this.EditText_12_editor_visibility == \old(this.TextView_13_textview2_visibility)
+this.EditText_12_editor_visibility == \old(this.TextView_13_textview2_enable)
+this.EditText_12_editor_visibility == \old(this.TextView_14_lastEditedDateTextView_visibility)
+this.EditText_12_editor_visibility == \old(this.TextView_14_lastEditedDateTextView_enable)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_17_savenote_visibility)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_17_savenote_enable)
+this.EditText_12_editor_editable == this.MainMenuItem_15_Deletenote_visibility
+this.EditText_12_editor_editable == this.MainMenuItem_15_Deletenote_enable
+this.EditText_12_editor_editable == this.MainMenuItem_16_Sharenote_visibility
+this.EditText_12_editor_editable == this.MainMenuItem_16_Sharenote_enable
+this.EditText_12_editor_editable == \old(this.EditText_12_editor_editable)
+this.EditText_12_editor_editable == \old(this.MainMenuItem_15_Deletenote_visibility)
+this.EditText_12_editor_editable == \old(this.MainMenuItem_15_Deletenote_enable)
+this.EditText_12_editor_editable == \old(this.MainMenuItem_16_Sharenote_visibility)
+this.EditText_12_editor_editable == \old(this.MainMenuItem_16_Sharenote_enable)
+this.EditText_12_editor_text == \old(this.EditText_12_editor_text)
+this.EditText_12_editor_text.toString().equals(\old(this.EditText_12_editor_text.toString()))
+this.EditText_12_editor_length == \old(this.EditText_12_editor_length)
+this.TextView_13_textview2_text == \old(this.TextView_13_textview2_text)
+this.TextView_13_textview2_text.toString().equals(\old(this.TextView_13_textview2_text.toString()))
+this.TextView_14_lastEditedDateTextView_text == \old(this.TextView_14_lastEditedDateTextView_text)
+this.TextView_14_lastEditedDateTextView_text.toString().equals(\old(this.TextView_14_lastEditedDateTextView_text.toString()))
+this.EditText_12_editor_visibility == true
+this.EditText_12_editor_text != null
+this.EditText_12_editor_text.toString().equals("Hi") || this.EditText_12_editor_text.toString().equals("Hi ali") || this.EditText_12_editor_text.toString().equals("Test content")
+this.EditText_12_editor_length == 2 || this.EditText_12_editor_length == 6 || this.EditText_12_editor_length == 12
+this.TextView_13_textview2_text != null
+this.TextView_13_textview2_text != null
+this.TextView_14_lastEditedDateTextView_text != null
+this.TextView_14_lastEditedDateTextView_text != null
+this.TextView_14_lastEditedDateTextView_text.toString().equals("yyyy-MM-dd HH:mm:ss")
+this.EditText_12_editor_text.toString().compareTo(this.TextView_14_lastEditedDateTextView_text.toString()) < 0
+===========================================================================
+mynotes.EditorActivity.menu.findItem(MENU_SAVE_NOTE)_onMenuItemClick():::ENTER
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_enable
+this.EditText_12_editor_visibility == true
+this.EditText_12_editor_text != null
+this.TextView_13_textview2_text != null
+this.TextView_13_textview2_text != null
+this.TextView_14_lastEditedDateTextView_text != null
+===========================================================================
+mynotes.EditorActivity.menu.findItem(MENU_SAVE_NOTE)_onMenuItemClick():::EXIT
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_enable
+this.EditText_12_editor_visibility == \old(this.EditText_12_editor_visibility)
+this.EditText_12_editor_visibility == \old(this.EditText_12_editor_enable)
+this.EditText_12_editor_visibility == \old(this.TextView_13_textview2_visibility)
+this.EditText_12_editor_visibility == \old(this.TextView_13_textview2_enable)
+this.EditText_12_editor_visibility == \old(this.TextView_14_lastEditedDateTextView_visibility)
+this.EditText_12_editor_visibility == \old(this.TextView_14_lastEditedDateTextView_enable)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_17_savenote_visibility)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_17_savenote_enable)
+this.EditText_12_editor_editable == \old(this.EditText_12_editor_editable)
+this.EditText_12_editor_text == \old(this.EditText_12_editor_text)
+this.EditText_12_editor_text.toString().equals(\old(this.EditText_12_editor_text.toString()))
+this.EditText_12_editor_length == \old(this.EditText_12_editor_length)
+this.TextView_13_textview2_text == \old(this.TextView_13_textview2_text)
+this.TextView_13_textview2_text.toString().equals(\old(this.TextView_13_textview2_text.toString()))
+this.TextView_14_lastEditedDateTextView_text == \old(this.TextView_14_lastEditedDateTextView_text)
+this.TextView_14_lastEditedDateTextView_text.toString().equals(\old(this.TextView_14_lastEditedDateTextView_text.toString()))
+this.MainMenuItem_15_Deletenote_visibility == \old(this.MainMenuItem_15_Deletenote_visibility)
+this.MainMenuItem_15_Deletenote_visibility == \old(this.MainMenuItem_15_Deletenote_enable)
+this.MainMenuItem_15_Deletenote_visibility == \old(this.MainMenuItem_16_Sharenote_visibility)
+this.MainMenuItem_15_Deletenote_visibility == \old(this.MainMenuItem_16_Sharenote_enable)
+this.EditText_12_editor_visibility == true
+this.EditText_12_editor_text != null
+this.TextView_13_textview2_text != null
+this.TextView_13_textview2_text != null
+this.TextView_14_lastEditedDateTextView_text != null
+===========================================================================
+mynotes.EditorActivity.menu.findItem(R.id.action_delete_note)_onMenuItemClick():::ENTER
+this.EditText_12_editor_visibility == this.MainMenuItem_15_Deletenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_15_Deletenote_enable
+this.EditText_12_editor_visibility == this.MainMenuItem_16_Sharenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_16_Sharenote_enable
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_enable
+this.EditText_12_editor_visibility == true
+this.EditText_12_editor_text.toString().equals("Test conTest content") || this.EditText_12_editor_text.toString().equals("Test content") || this.EditText_12_editor_text.toString().equals("Test contentkkk")
+this.EditText_12_editor_length == 12 || this.EditText_12_editor_length == 15 || this.EditText_12_editor_length == 20
+this.TextView_13_textview2_text != null
+this.TextView_14_lastEditedDateTextView_text.toString().equals("Sat, 9 Sep 2023 09:47 AM") || this.TextView_14_lastEditedDateTextView_text.toString().equals("Sat, 9 Sep 2023 09:48 AM")
+===========================================================================
+mynotes.EditorActivity.menu.findItem(R.id.action_delete_note)_onMenuItemClick():::EXIT
+this.EditText_12_editor_visibility == this.MainMenuItem_15_Deletenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_15_Deletenote_enable
+this.EditText_12_editor_visibility == this.MainMenuItem_16_Sharenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_16_Sharenote_enable
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_enable
+this.EditText_12_editor_visibility == \old(this.EditText_12_editor_visibility)
+this.EditText_12_editor_visibility == \old(this.EditText_12_editor_enable)
+this.EditText_12_editor_visibility == \old(this.TextView_13_textview2_visibility)
+this.EditText_12_editor_visibility == \old(this.TextView_13_textview2_enable)
+this.EditText_12_editor_visibility == \old(this.TextView_14_lastEditedDateTextView_visibility)
+this.EditText_12_editor_visibility == \old(this.TextView_14_lastEditedDateTextView_enable)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_15_Deletenote_visibility)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_15_Deletenote_enable)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_16_Sharenote_visibility)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_16_Sharenote_enable)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_17_savenote_visibility)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_17_savenote_enable)
+this.EditText_12_editor_editable == \old(this.EditText_12_editor_editable)
+this.EditText_12_editor_text == \old(this.EditText_12_editor_text)
+this.EditText_12_editor_text.toString().equals(\old(this.EditText_12_editor_text.toString()))
+this.EditText_12_editor_length == \old(this.EditText_12_editor_length)
+this.TextView_13_textview2_text == \old(this.TextView_13_textview2_text)
+this.TextView_13_textview2_text.toString().equals(\old(this.TextView_13_textview2_text.toString()))
+this.TextView_14_lastEditedDateTextView_text == \old(this.TextView_14_lastEditedDateTextView_text)
+this.TextView_14_lastEditedDateTextView_text.toString().equals(\old(this.TextView_14_lastEditedDateTextView_text.toString()))
+this.EditText_12_editor_visibility == true
+this.EditText_12_editor_text.toString().equals("Test conTest content") || this.EditText_12_editor_text.toString().equals("Test content") || this.EditText_12_editor_text.toString().equals("Test contentkkk")
+this.EditText_12_editor_length == 12 || this.EditText_12_editor_length == 15 || this.EditText_12_editor_length == 20
+this.TextView_13_textview2_text != null
+this.TextView_14_lastEditedDateTextView_text.toString().equals("Sat, 9 Sep 2023 09:47 AM") || this.TextView_14_lastEditedDateTextView_text.toString().equals("Sat, 9 Sep 2023 09:48 AM")
+===========================================================================
+mynotes.EditorActivity.menu.findItem(R.id.action_share_note)_onMenuItemClick():::ENTER
+this.EditText_12_editor_visibility == this.MainMenuItem_15_Deletenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_15_Deletenote_enable
+this.EditText_12_editor_visibility == this.MainMenuItem_16_Sharenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_16_Sharenote_enable
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_enable
+this.EditText_12_editor_visibility == true
+this.TextView_13_textview2_text != null
+this.TextView_14_lastEditedDateTextView_text.toString().equals("Sat, 9 Sep 2023 09:47 AM") || this.TextView_14_lastEditedDateTextView_text.toString().equals("Sat, 9 Sep 2023 09:48 AM") || this.TextView_14_lastEditedDateTextView_text.toString().equals("Sat, 9 Sep 2023 09:52 AM")
+===========================================================================
+mynotes.EditorActivity.menu.findItem(R.id.action_share_note)_onMenuItemClick():::EXIT
+this.EditText_12_editor_visibility == this.MainMenuItem_15_Deletenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_15_Deletenote_enable
+this.EditText_12_editor_visibility == this.MainMenuItem_16_Sharenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_16_Sharenote_enable
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_enable
+this.EditText_12_editor_visibility == \old(this.EditText_12_editor_visibility)
+this.EditText_12_editor_visibility == \old(this.EditText_12_editor_enable)
+this.EditText_12_editor_visibility == \old(this.TextView_13_textview2_visibility)
+this.EditText_12_editor_visibility == \old(this.TextView_13_textview2_enable)
+this.EditText_12_editor_visibility == \old(this.TextView_14_lastEditedDateTextView_visibility)
+this.EditText_12_editor_visibility == \old(this.TextView_14_lastEditedDateTextView_enable)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_15_Deletenote_visibility)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_15_Deletenote_enable)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_16_Sharenote_visibility)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_16_Sharenote_enable)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_17_savenote_visibility)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_17_savenote_enable)
+this.EditText_12_editor_editable == \old(this.EditText_12_editor_editable)
+this.EditText_12_editor_text == \old(this.EditText_12_editor_text)
+this.EditText_12_editor_text.toString().equals(\old(this.EditText_12_editor_text.toString()))
+this.EditText_12_editor_length == \old(this.EditText_12_editor_length)
+this.TextView_13_textview2_text == \old(this.TextView_13_textview2_text)
+this.TextView_13_textview2_text.toString().equals(\old(this.TextView_13_textview2_text.toString()))
+this.TextView_14_lastEditedDateTextView_text == \old(this.TextView_14_lastEditedDateTextView_text)
+this.TextView_14_lastEditedDateTextView_text.toString().equals(\old(this.TextView_14_lastEditedDateTextView_text.toString()))
+this.EditText_12_editor_visibility == true
+this.TextView_13_textview2_text != null
+this.TextView_14_lastEditedDateTextView_text.toString().equals("Sat, 9 Sep 2023 09:47 AM") || this.TextView_14_lastEditedDateTextView_text.toString().equals("Sat, 9 Sep 2023 09:48 AM") || this.TextView_14_lastEditedDateTextView_text.toString().equals("Sat, 9 Sep 2023 09:52 AM")
+===========================================================================
+mynotes.EditorActivity.onCreate():::ENTER
+this.EditText_12_editor_visibility == this.EditText_12_editor_editable
+this.EditText_12_editor_visibility == this.MainMenuItem_15_Deletenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_15_Deletenote_enable
+this.EditText_12_editor_visibility == this.MainMenuItem_16_Sharenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_16_Sharenote_enable
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_enable
+this.EditText_12_editor_text == this.TextView_13_textview2_text
+this.EditText_12_editor_text == this.TextView_14_lastEditedDateTextView_text
+this.EditText_12_editor_visibility == false
+this.EditText_12_editor_text == null
+this.EditText_12_editor_length == 0
+===========================================================================
+mynotes.EditorActivity.onCreate():::EXIT
+this.EditText_12_editor_editable == this.MainMenuItem_15_Deletenote_visibility
+this.EditText_12_editor_editable == this.MainMenuItem_15_Deletenote_enable
+this.EditText_12_editor_editable == this.MainMenuItem_16_Sharenote_visibility
+this.EditText_12_editor_editable == this.MainMenuItem_16_Sharenote_enable
+this.EditText_12_editor_editable == this.MainMenuItem_17_savenote_visibility
+this.EditText_12_editor_editable == this.MainMenuItem_17_savenote_enable
+this.EditText_12_editor_editable == \old(this.EditText_12_editor_visibility)
+this.EditText_12_editor_editable == \old(this.EditText_12_editor_enable)
+this.EditText_12_editor_editable == \old(this.EditText_12_editor_editable)
+this.EditText_12_editor_editable == \old(this.TextView_13_textview2_visibility)
+this.EditText_12_editor_editable == \old(this.TextView_13_textview2_enable)
+this.EditText_12_editor_editable == \old(this.TextView_14_lastEditedDateTextView_visibility)
+this.EditText_12_editor_editable == \old(this.TextView_14_lastEditedDateTextView_enable)
+this.EditText_12_editor_editable == \old(this.MainMenuItem_15_Deletenote_visibility)
+this.EditText_12_editor_editable == \old(this.MainMenuItem_15_Deletenote_enable)
+this.EditText_12_editor_editable == \old(this.MainMenuItem_16_Sharenote_visibility)
+this.EditText_12_editor_editable == \old(this.MainMenuItem_16_Sharenote_enable)
+this.EditText_12_editor_editable == \old(this.MainMenuItem_17_savenote_visibility)
+this.EditText_12_editor_editable == \old(this.MainMenuItem_17_savenote_enable)
+this.EditText_12_editor_visibility == true
+this.EditText_12_editor_text != null
+this.TextView_13_textview2_text != null
+this.TextView_13_textview2_text != null
+this.TextView_14_lastEditedDateTextView_text != null
+this.EditText_12_editor_length >= \old(this.EditText_12_editor_length)
+===========================================================================
+mynotes.EditorActivity.onCreateOptionsMenu():::ENTER
+this.EditText_12_editor_editable == this.MainMenuItem_15_Deletenote_visibility
+this.EditText_12_editor_editable == this.MainMenuItem_15_Deletenote_enable
+this.EditText_12_editor_editable == this.MainMenuItem_16_Sharenote_visibility
+this.EditText_12_editor_editable == this.MainMenuItem_16_Sharenote_enable
+this.EditText_12_editor_editable == this.MainMenuItem_17_savenote_visibility
+this.EditText_12_editor_editable == this.MainMenuItem_17_savenote_enable
+this.EditText_12_editor_visibility == true
+this.EditText_12_editor_text != null
+this.TextView_13_textview2_text != null
+this.TextView_13_textview2_text != null
+this.TextView_14_lastEditedDateTextView_text != null
+===========================================================================
+mynotes.EditorActivity.onCreateOptionsMenu():::EXIT
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_enable
+this.EditText_12_editor_visibility == \old(this.EditText_12_editor_visibility)
+this.EditText_12_editor_visibility == \old(this.EditText_12_editor_enable)
+this.EditText_12_editor_visibility == \old(this.TextView_13_textview2_visibility)
+this.EditText_12_editor_visibility == \old(this.TextView_13_textview2_enable)
+this.EditText_12_editor_visibility == \old(this.TextView_14_lastEditedDateTextView_visibility)
+this.EditText_12_editor_visibility == \old(this.TextView_14_lastEditedDateTextView_enable)
+this.EditText_12_editor_editable == \old(this.EditText_12_editor_editable)
+this.EditText_12_editor_editable == \old(this.MainMenuItem_15_Deletenote_visibility)
+this.EditText_12_editor_editable == \old(this.MainMenuItem_15_Deletenote_enable)
+this.EditText_12_editor_editable == \old(this.MainMenuItem_16_Sharenote_visibility)
+this.EditText_12_editor_editable == \old(this.MainMenuItem_16_Sharenote_enable)
+this.EditText_12_editor_editable == \old(this.MainMenuItem_17_savenote_visibility)
+this.EditText_12_editor_editable == \old(this.MainMenuItem_17_savenote_enable)
+this.EditText_12_editor_text == \old(this.EditText_12_editor_text)
+this.EditText_12_editor_text.toString().equals(\old(this.EditText_12_editor_text.toString()))
+this.EditText_12_editor_length == \old(this.EditText_12_editor_length)
+this.TextView_13_textview2_text == \old(this.TextView_13_textview2_text)
+this.TextView_13_textview2_text.toString().equals(\old(this.TextView_13_textview2_text.toString()))
+this.TextView_14_lastEditedDateTextView_text == \old(this.TextView_14_lastEditedDateTextView_text)
+this.TextView_14_lastEditedDateTextView_text.toString().equals(\old(this.TextView_14_lastEditedDateTextView_text.toString()))
+this.EditText_12_editor_visibility == true
+this.EditText_12_editor_text != null
+this.TextView_13_textview2_text != null
+this.TextView_13_textview2_text != null
+this.TextView_14_lastEditedDateTextView_text != null
+===========================================================================
+mynotes.EditorActivity.shareNote():::ENTER
+this.EditText_12_editor_visibility == this.MainMenuItem_15_Deletenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_15_Deletenote_enable
+this.EditText_12_editor_visibility == this.MainMenuItem_16_Sharenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_16_Sharenote_enable
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_enable
+this.EditText_12_editor_visibility == true
+this.TextView_13_textview2_text != null
+this.TextView_14_lastEditedDateTextView_text.toString().equals("Sat, 9 Sep 2023 09:47 AM") || this.TextView_14_lastEditedDateTextView_text.toString().equals("Sat, 9 Sep 2023 09:48 AM") || this.TextView_14_lastEditedDateTextView_text.toString().equals("Sat, 9 Sep 2023 09:52 AM")
+===========================================================================
+mynotes.EditorActivity.shareNote():::EXIT
+this.EditText_12_editor_visibility == this.MainMenuItem_15_Deletenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_15_Deletenote_enable
+this.EditText_12_editor_visibility == this.MainMenuItem_16_Sharenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_16_Sharenote_enable
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_enable
+this.EditText_12_editor_visibility == \old(this.EditText_12_editor_visibility)
+this.EditText_12_editor_visibility == \old(this.EditText_12_editor_enable)
+this.EditText_12_editor_visibility == \old(this.TextView_13_textview2_visibility)
+this.EditText_12_editor_visibility == \old(this.TextView_13_textview2_enable)
+this.EditText_12_editor_visibility == \old(this.TextView_14_lastEditedDateTextView_visibility)
+this.EditText_12_editor_visibility == \old(this.TextView_14_lastEditedDateTextView_enable)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_15_Deletenote_visibility)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_15_Deletenote_enable)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_16_Sharenote_visibility)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_16_Sharenote_enable)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_17_savenote_visibility)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_17_savenote_enable)
+this.EditText_12_editor_editable == \old(this.EditText_12_editor_editable)
+this.EditText_12_editor_text == \old(this.EditText_12_editor_text)
+this.EditText_12_editor_text.toString().equals(\old(this.EditText_12_editor_text.toString()))
+this.EditText_12_editor_length == \old(this.EditText_12_editor_length)
+this.TextView_13_textview2_text == \old(this.TextView_13_textview2_text)
+this.TextView_13_textview2_text.toString().equals(\old(this.TextView_13_textview2_text.toString()))
+this.TextView_14_lastEditedDateTextView_text == \old(this.TextView_14_lastEditedDateTextView_text)
+this.TextView_14_lastEditedDateTextView_text.toString().equals(\old(this.TextView_14_lastEditedDateTextView_text.toString()))
+this.EditText_12_editor_visibility == true
+this.TextView_13_textview2_text != null
+this.TextView_14_lastEditedDateTextView_text.toString().equals("Sat, 9 Sep 2023 09:47 AM") || this.TextView_14_lastEditedDateTextView_text.toString().equals("Sat, 9 Sep 2023 09:48 AM") || this.TextView_14_lastEditedDateTextView_text.toString().equals("Sat, 9 Sep 2023 09:52 AM")
+===========================================================================
+mynotes.EditorActivity.updateNote():::ENTER
+this.EditText_12_editor_visibility == this.MainMenuItem_15_Deletenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_15_Deletenote_enable
+this.EditText_12_editor_visibility == this.MainMenuItem_16_Sharenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_16_Sharenote_enable
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_enable
+this.EditText_12_editor_visibility == true
+this.TextView_13_textview2_text != null
+this.TextView_14_lastEditedDateTextView_text.toString().equals("Sat, 9 Sep 2023 09:47 AM") || this.TextView_14_lastEditedDateTextView_text.toString().equals("Sat, 9 Sep 2023 09:48 AM") || this.TextView_14_lastEditedDateTextView_text.toString().equals("Sat, 9 Sep 2023 09:52 AM")
+===========================================================================
+mynotes.EditorActivity.updateNote():::EXIT
+this.EditText_12_editor_visibility == this.MainMenuItem_15_Deletenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_15_Deletenote_enable
+this.EditText_12_editor_visibility == this.MainMenuItem_16_Sharenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_16_Sharenote_enable
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_visibility
+this.EditText_12_editor_visibility == this.MainMenuItem_17_savenote_enable
+this.EditText_12_editor_visibility == \old(this.EditText_12_editor_visibility)
+this.EditText_12_editor_visibility == \old(this.EditText_12_editor_enable)
+this.EditText_12_editor_visibility == \old(this.TextView_13_textview2_visibility)
+this.EditText_12_editor_visibility == \old(this.TextView_13_textview2_enable)
+this.EditText_12_editor_visibility == \old(this.TextView_14_lastEditedDateTextView_visibility)
+this.EditText_12_editor_visibility == \old(this.TextView_14_lastEditedDateTextView_enable)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_15_Deletenote_visibility)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_15_Deletenote_enable)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_16_Sharenote_visibility)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_16_Sharenote_enable)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_17_savenote_visibility)
+this.EditText_12_editor_visibility == \old(this.MainMenuItem_17_savenote_enable)
+this.EditText_12_editor_editable == \old(this.EditText_12_editor_editable)
+this.EditText_12_editor_text == \old(this.EditText_12_editor_text)
+this.EditText_12_editor_text.toString().equals(\old(this.EditText_12_editor_text.toString()))
+this.EditText_12_editor_length == \old(this.EditText_12_editor_length)
+this.TextView_13_textview2_text == \old(this.TextView_13_textview2_text)
+this.TextView_13_textview2_text.toString().equals(\old(this.TextView_13_textview2_text.toString()))
+this.TextView_14_lastEditedDateTextView_text == \old(this.TextView_14_lastEditedDateTextView_text)
+this.TextView_14_lastEditedDateTextView_text.toString().equals(\old(this.TextView_14_lastEditedDateTextView_text.toString()))
+this.EditText_12_editor_visibility == true
+this.TextView_13_textview2_text != null
+this.TextView_14_lastEditedDateTextView_text.toString().equals("Sat, 9 Sep 2023 09:47 AM") || this.TextView_14_lastEditedDateTextView_text.toString().equals("Sat, 9 Sep 2023 09:48 AM") || this.TextView_14_lastEditedDateTextView_text.toString().equals("Sat, 9 Sep 2023 09:52 AM")
+===========================================================================
+mynotes.MainActivity$DeleteNoteDialog:::OBJECT
+this.TextView_6_dialogTitle_visibility == this.TextView_6_dialogTitle_enable
+this.TextView_6_dialogTitle_visibility == this.Button_7_button2_visibility
+this.TextView_6_dialogTitle_visibility == this.Button_7_button2_enable
+this.TextView_6_dialogTitle_visibility == this.Button_8_button3_visibility
+this.TextView_6_dialogTitle_visibility == this.Button_8_button3_enable
+this.TextView_6_dialogTitle_visibility == mynotes.MainActivity.this.FloatingActionButton_1_add_Note_visibility
+this.TextView_6_dialogTitle_visibility == mynotes.MainActivity.this.FloatingActionButton_1_add_Note_enable
+this.TextView_6_dialogTitle_visibility == mynotes.MainActivity.this.TextView_2_textview2_visibility
+this.TextView_6_dialogTitle_visibility == mynotes.MainActivity.this.TextView_2_textview2_enable
+this.TextView_6_dialogTitle_visibility == mynotes.MainActivity.this.ListView_3_notesListView_visibility
+this.TextView_6_dialogTitle_visibility == mynotes.MainActivity.this.MainMenuItem_4_Deleteallnotes_visibility
+this.TextView_6_dialogTitle_visibility == mynotes.MainActivity.this.MainMenuItem_4_Deleteallnotes_enable
+this.TextView_6_dialogTitle_visibility == mynotes.MainActivity.this.MainMenuItem_5_About_visibility
+this.TextView_6_dialogTitle_visibility == mynotes.MainActivity.this.MainMenuItem_5_About_enable
+this.TextView_6_dialogTitle_visibility == true
+this.TextView_6_dialogTitle_text != null
+this.TextView_6_dialogTitle_text != null
+this.TextView_6_dialogTitle_text.toString().equals("Delete this note?")
+this.Button_7_button2_text != null
+this.Button_7_button2_text != null
+this.Button_7_button2_text.toString().equals("Yes")
+this.Button_8_button3_text != null
+this.Button_8_button3_text != null
+this.Button_8_button3_text.toString().equals("No")
+mynotes.MainActivity.this.TextView_2_textview2_text != null
+mynotes.MainActivity.this.TextView_2_textview2_text != null
+mynotes.MainActivity.this.ListView_3_notesListView_size >= 1
+this.TextView_6_dialogTitle_text.toString().compareTo(this.Button_7_button2_text.toString()) < 0
+this.TextView_6_dialogTitle_text.toString().compareTo(this.Button_8_button3_text.toString()) < 0
+this.TextView_6_dialogTitle_text.toString().compareTo(mynotes.MainActivity.this.TextView_2_textview2_text.toString()) < 0
+this.Button_7_button2_text.toString().compareTo(this.Button_8_button3_text.toString()) > 0
+this.Button_7_button2_text.toString().compareTo(mynotes.MainActivity.this.TextView_2_textview2_text.toString()) > 0
+this.Button_8_button3_text.toString().compareTo(mynotes.MainActivity.this.TextView_2_textview2_text.toString()) < 0
+===========================================================================
+mynotes.MainActivity$DeleteNoteDialog.CancelButton_onClick():::ENTER
+===========================================================================
+mynotes.MainActivity$DeleteNoteDialog.CancelButton_onClick():::EXIT
+this.TextView_6_dialogTitle_visibility == \old(this.TextView_6_dialogTitle_visibility)
+this.TextView_6_dialogTitle_visibility == \old(this.TextView_6_dialogTitle_enable)
+this.TextView_6_dialogTitle_visibility == \old(this.Button_7_button2_visibility)
+this.TextView_6_dialogTitle_visibility == \old(this.Button_7_button2_enable)
+this.TextView_6_dialogTitle_visibility == \old(this.Button_8_button3_visibility)
+this.TextView_6_dialogTitle_visibility == \old(this.Button_8_button3_enable)
+this.TextView_6_dialogTitle_visibility == \old(mynotes.MainActivity.this.FloatingActionButton_1_add_Note_visibility)
+this.TextView_6_dialogTitle_visibility == \old(mynotes.MainActivity.this.FloatingActionButton_1_add_Note_enable)
+this.TextView_6_dialogTitle_visibility == \old(mynotes.MainActivity.this.TextView_2_textview2_visibility)
+this.TextView_6_dialogTitle_visibility == \old(mynotes.MainActivity.this.TextView_2_textview2_enable)
+this.TextView_6_dialogTitle_visibility == \old(mynotes.MainActivity.this.ListView_3_notesListView_visibility)
+this.TextView_6_dialogTitle_visibility == \old(mynotes.MainActivity.this.MainMenuItem_4_Deleteallnotes_visibility)
+this.TextView_6_dialogTitle_visibility == \old(mynotes.MainActivity.this.MainMenuItem_4_Deleteallnotes_enable)
+this.TextView_6_dialogTitle_visibility == \old(mynotes.MainActivity.this.MainMenuItem_5_About_visibility)
+this.TextView_6_dialogTitle_visibility == \old(mynotes.MainActivity.this.MainMenuItem_5_About_enable)
+this.TextView_6_dialogTitle_text == \old(this.TextView_6_dialogTitle_text)
+this.TextView_6_dialogTitle_text.toString().equals(\old(this.TextView_6_dialogTitle_text.toString()))
+this.Button_7_button2_text == \old(this.Button_7_button2_text)
+this.Button_7_button2_text.toString().equals(\old(this.Button_7_button2_text.toString()))
+this.Button_8_button3_text == \old(this.Button_8_button3_text)
+this.Button_8_button3_text.toString().equals(\old(this.Button_8_button3_text.toString()))
+mynotes.MainActivity.this.TextView_2_textview2_text == \old(mynotes.MainActivity.this.TextView_2_textview2_text)
+mynotes.MainActivity.this.TextView_2_textview2_text.toString().equals(\old(mynotes.MainActivity.this.TextView_2_textview2_text.toString()))
+mynotes.MainActivity.this.ListView_3_notesListView_size == \old(mynotes.MainActivity.this.ListView_3_notesListView_size)
+===========================================================================
+mynotes.MainActivity$DeleteNoteDialog.ConfirmButton_onClick():::ENTER
+===========================================================================
+mynotes.MainActivity$DeleteNoteDialog.ConfirmButton_onClick():::EXIT
+this.TextView_6_dialogTitle_visibility == \old(this.TextView_6_dialogTitle_visibility)
+this.TextView_6_dialogTitle_visibility == \old(this.TextView_6_dialogTitle_enable)
+this.TextView_6_dialogTitle_visibility == \old(this.Button_7_button2_visibility)
+this.TextView_6_dialogTitle_visibility == \old(this.Button_7_button2_enable)
+this.TextView_6_dialogTitle_visibility == \old(this.Button_8_button3_visibility)
+this.TextView_6_dialogTitle_visibility == \old(this.Button_8_button3_enable)
+this.TextView_6_dialogTitle_visibility == \old(mynotes.MainActivity.this.FloatingActionButton_1_add_Note_visibility)
+this.TextView_6_dialogTitle_visibility == \old(mynotes.MainActivity.this.FloatingActionButton_1_add_Note_enable)
+this.TextView_6_dialogTitle_visibility == \old(mynotes.MainActivity.this.TextView_2_textview2_visibility)
+this.TextView_6_dialogTitle_visibility == \old(mynotes.MainActivity.this.TextView_2_textview2_enable)
+this.TextView_6_dialogTitle_visibility == \old(mynotes.MainActivity.this.ListView_3_notesListView_visibility)
+this.TextView_6_dialogTitle_visibility == \old(mynotes.MainActivity.this.MainMenuItem_4_Deleteallnotes_visibility)
+this.TextView_6_dialogTitle_visibility == \old(mynotes.MainActivity.this.MainMenuItem_4_Deleteallnotes_enable)
+this.TextView_6_dialogTitle_visibility == \old(mynotes.MainActivity.this.MainMenuItem_5_About_visibility)
+this.TextView_6_dialogTitle_visibility == \old(mynotes.MainActivity.this.MainMenuItem_5_About_enable)
+this.TextView_6_dialogTitle_text == \old(this.TextView_6_dialogTitle_text)
+this.TextView_6_dialogTitle_text.toString().equals(\old(this.TextView_6_dialogTitle_text.toString()))
+this.Button_7_button2_text == \old(this.Button_7_button2_text)
+this.Button_7_button2_text.toString().equals(\old(this.Button_7_button2_text.toString()))
+this.Button_8_button3_text == \old(this.Button_8_button3_text)
+this.Button_8_button3_text.toString().equals(\old(this.Button_8_button3_text.toString()))
+mynotes.MainActivity.this.TextView_2_textview2_text == \old(mynotes.MainActivity.this.TextView_2_textview2_text)
+mynotes.MainActivity.this.TextView_2_textview2_text.toString().equals(\old(mynotes.MainActivity.this.TextView_2_textview2_text.toString()))
+mynotes.MainActivity.this.ListView_3_notesListView_size - \old(mynotes.MainActivity.this.ListView_3_notesListView_size) + 1 == 0
+===========================================================================
+mynotes.MainActivity$DeleteNoteDialog.DeleteNoteDialog(mynotes.MainActivity):::ENTER
+mynotes.MainActivity.this.FloatingActionButton_1_add_Note_visibility == mynotes.MainActivity.this.FloatingActionButton_1_add_Note_enable
+mynotes.MainActivity.this.FloatingActionButton_1_add_Note_visibility == mynotes.MainActivity.this.TextView_2_textview2_visibility
+mynotes.MainActivity.this.FloatingActionButton_1_add_Note_visibility == mynotes.MainActivity.this.TextView_2_textview2_enable
+mynotes.MainActivity.this.FloatingActionButton_1_add_Note_visibility == mynotes.MainActivity.this.ListView_3_notesListView_visibility
+mynotes.MainActivity.this.FloatingActionButton_1_add_Note_visibility == mynotes.MainActivity.this.MainMenuItem_4_Deleteallnotes_visibility
+mynotes.MainActivity.this.FloatingActionButton_1_add_Note_visibility == mynotes.MainActivity.this.MainMenuItem_4_Deleteallnotes_enable
+mynotes.MainActivity.this.FloatingActionButton_1_add_Note_visibility == mynotes.MainActivity.this.MainMenuItem_5_About_visibility
+mynotes.MainActivity.this.FloatingActionButton_1_add_Note_visibility == mynotes.MainActivity.this.MainMenuItem_5_About_enable
+mynotes.MainActivity.this.FloatingActionButton_1_add_Note_visibility == true
+mynotes.MainActivity.this.TextView_2_textview2_text != null
+mynotes.MainActivity.this.TextView_2_textview2_text != null
+mynotes.MainActivity.this.TextView_2_textview2_text.toString().equals("There're no notes to display...")
+mynotes.MainActivity.this.ListView_3_notesListView_size >= 1
+===========================================================================
+mynotes.MainActivity$DeleteNoteDialog.DeleteNoteDialog(mynotes.MainActivity):::EXIT
+this.TextView_6_dialogTitle_visibility == \old(mynotes.MainActivity.this.FloatingActionButton_1_add_Note_visibility)
+this.TextView_6_dialogTitle_visibility == \old(mynotes.MainActivity.this.FloatingActionButton_1_add_Note_enable)
+this.TextView_6_dialogTitle_visibility == \old(mynotes.MainActivity.this.TextView_2_textview2_visibility)
+this.TextView_6_dialogTitle_visibility == \old(mynotes.MainActivity.this.TextView_2_textview2_enable)
+this.TextView_6_dialogTitle_visibility == \old(mynotes.MainActivity.this.ListView_3_notesListView_visibility)
+this.TextView_6_dialogTitle_visibility == \old(mynotes.MainActivity.this.MainMenuItem_4_Deleteallnotes_visibility)
+this.TextView_6_dialogTitle_visibility == \old(mynotes.MainActivity.this.MainMenuItem_4_Deleteallnotes_enable)
+this.TextView_6_dialogTitle_visibility == \old(mynotes.MainActivity.this.MainMenuItem_5_About_visibility)
+this.TextView_6_dialogTitle_visibility == \old(mynotes.MainActivity.this.MainMenuItem_5_About_enable)
+mynotes.MainActivity.this.TextView_2_textview2_text == \old(mynotes.MainActivity.this.TextView_2_textview2_text)
+mynotes.MainActivity.this.TextView_2_textview2_text.toString().equals(\old(mynotes.MainActivity.this.TextView_2_textview2_text.toString()))
+mynotes.MainActivity.this.ListView_3_notesListView_size == \old(mynotes.MainActivity.this.ListView_3_notesListView_size)
+===========================================================================
+mynotes.MainActivity$DeleteNotesDialog:::OBJECT
+this.TextView_9_dialogTitle_visibility == this.TextView_9_dialogTitle_enable
+this.TextView_9_dialogTitle_visibility == this.Button_10_button2_visibility
+this.TextView_9_dialogTitle_visibility == this.Button_10_button2_enable
+this.TextView_9_dialogTitle_visibility == this.Button_11_button3_visibility
+this.TextView_9_dialogTitle_visibility == this.Button_11_button3_enable
+this.TextView_9_dialogTitle_visibility == mynotes.MainActivity.this.FloatingActionButton_1_add_Note_visibility
+this.TextView_9_dialogTitle_visibility == mynotes.MainActivity.this.FloatingActionButton_1_add_Note_enable
+this.TextView_9_dialogTitle_visibility == mynotes.MainActivity.this.TextView_2_textview2_visibility
+this.TextView_9_dialogTitle_visibility == mynotes.MainActivity.this.TextView_2_textview2_enable
+this.TextView_9_dialogTitle_visibility == mynotes.MainActivity.this.ListView_3_notesListView_visibility
+this.TextView_9_dialogTitle_visibility == mynotes.MainActivity.this.MainMenuItem_4_Deleteallnotes_visibility
+this.TextView_9_dialogTitle_visibility == mynotes.MainActivity.this.MainMenuItem_4_Deleteallnotes_enable
+this.TextView_9_dialogTitle_visibility == mynotes.MainActivity.this.MainMenuItem_5_About_visibility
+this.TextView_9_dialogTitle_visibility == mynotes.MainActivity.this.MainMenuItem_5_About_enable
+this.TextView_9_dialogTitle_visibility == true
+this.TextView_9_dialogTitle_text != null
+this.TextView_9_dialogTitle_text != null
+this.TextView_9_dialogTitle_text.toString().equals("Delete All Notes?")
+this.Button_10_button2_text != null
+this.Button_10_button2_text != null
+this.Button_10_button2_text.toString().equals("Yes")
+this.Button_11_button3_text != null
+this.Button_11_button3_text != null
+this.Button_11_button3_text.toString().equals("No")
+mynotes.MainActivity.this.TextView_2_textview2_text != null
+mynotes.MainActivity.this.TextView_2_textview2_text != null
+mynotes.MainActivity.this.TextView_2_textview2_text.toString().equals("There're no notes to display...")
+this.TextView_9_dialogTitle_text.toString().compareTo(this.Button_10_button2_text.toString()) < 0
+this.TextView_9_dialogTitle_text.toString().compareTo(this.Button_11_button3_text.toString()) < 0
+this.TextView_9_dialogTitle_text.toString().compareTo(mynotes.MainActivity.this.TextView_2_textview2_text.toString()) < 0
+this.Button_10_button2_text.toString().compareTo(this.Button_11_button3_text.toString()) > 0
+this.Button_10_button2_text.toString().compareTo(mynotes.MainActivity.this.TextView_2_textview2_text.toString()) > 0
+this.Button_11_button3_text.toString().compareTo(mynotes.MainActivity.this.TextView_2_textview2_text.toString()) < 0
+===========================================================================
+mynotes.MainActivity$DeleteNotesDialog.CancelButton_onClick():::ENTER
+===========================================================================
+mynotes.MainActivity$DeleteNotesDialog.CancelButton_onClick():::EXIT
+this.TextView_9_dialogTitle_visibility == \old(this.TextView_9_dialogTitle_visibility)
+this.TextView_9_dialogTitle_visibility == \old(this.TextView_9_dialogTitle_enable)
+this.TextView_9_dialogTitle_visibility == \old(this.Button_10_button2_visibility)
+this.TextView_9_dialogTitle_visibility == \old(this.Button_10_button2_enable)
+this.TextView_9_dialogTitle_visibility == \old(this.Button_11_button3_visibility)
+this.TextView_9_dialogTitle_visibility == \old(this.Button_11_button3_enable)
+this.TextView_9_dialogTitle_visibility == \old(mynotes.MainActivity.this.FloatingActionButton_1_add_Note_visibility)
+this.TextView_9_dialogTitle_visibility == \old(mynotes.MainActivity.this.FloatingActionButton_1_add_Note_enable)
+this.TextView_9_dialogTitle_visibility == \old(mynotes.MainActivity.this.TextView_2_textview2_visibility)
+this.TextView_9_dialogTitle_visibility == \old(mynotes.MainActivity.this.TextView_2_textview2_enable)
+this.TextView_9_dialogTitle_visibility == \old(mynotes.MainActivity.this.ListView_3_notesListView_visibility)
+this.TextView_9_dialogTitle_visibility == \old(mynotes.MainActivity.this.MainMenuItem_4_Deleteallnotes_visibility)
+this.TextView_9_dialogTitle_visibility == \old(mynotes.MainActivity.this.MainMenuItem_4_Deleteallnotes_enable)
+this.TextView_9_dialogTitle_visibility == \old(mynotes.MainActivity.this.MainMenuItem_5_About_visibility)
+this.TextView_9_dialogTitle_visibility == \old(mynotes.MainActivity.this.MainMenuItem_5_About_enable)
+this.TextView_9_dialogTitle_text == \old(this.TextView_9_dialogTitle_text)
+this.TextView_9_dialogTitle_text.toString().equals(\old(this.TextView_9_dialogTitle_text.toString()))
+this.Button_10_button2_text == \old(this.Button_10_button2_text)
+this.Button_10_button2_text.toString().equals(\old(this.Button_10_button2_text.toString()))
+this.Button_11_button3_text == \old(this.Button_11_button3_text)
+this.Button_11_button3_text.toString().equals(\old(this.Button_11_button3_text.toString()))
+mynotes.MainActivity.this.TextView_2_textview2_text == \old(mynotes.MainActivity.this.TextView_2_textview2_text)
+mynotes.MainActivity.this.TextView_2_textview2_text.toString().equals(\old(mynotes.MainActivity.this.TextView_2_textview2_text.toString()))
+mynotes.MainActivity.this.ListView_3_notesListView_size == \old(mynotes.MainActivity.this.ListView_3_notesListView_size)
+===========================================================================
+mynotes.MainActivity$DeleteNotesDialog.ConfirmButton_onClick():::ENTER
+===========================================================================
+mynotes.MainActivity$DeleteNotesDialog.ConfirmButton_onClick():::EXIT
+this.TextView_9_dialogTitle_visibility == \old(this.TextView_9_dialogTitle_visibility)
+this.TextView_9_dialogTitle_visibility == \old(this.TextView_9_dialogTitle_enable)
+this.TextView_9_dialogTitle_visibility == \old(this.Button_10_button2_visibility)
+this.TextView_9_dialogTitle_visibility == \old(this.Button_10_button2_enable)
+this.TextView_9_dialogTitle_visibility == \old(this.Button_11_button3_visibility)
+this.TextView_9_dialogTitle_visibility == \old(this.Button_11_button3_enable)
+this.TextView_9_dialogTitle_visibility == \old(mynotes.MainActivity.this.FloatingActionButton_1_add_Note_visibility)
+this.TextView_9_dialogTitle_visibility == \old(mynotes.MainActivity.this.FloatingActionButton_1_add_Note_enable)
+this.TextView_9_dialogTitle_visibility == \old(mynotes.MainActivity.this.TextView_2_textview2_visibility)
+this.TextView_9_dialogTitle_visibility == \old(mynotes.MainActivity.this.TextView_2_textview2_enable)
+this.TextView_9_dialogTitle_visibility == \old(mynotes.MainActivity.this.ListView_3_notesListView_visibility)
+this.TextView_9_dialogTitle_visibility == \old(mynotes.MainActivity.this.MainMenuItem_4_Deleteallnotes_visibility)
+this.TextView_9_dialogTitle_visibility == \old(mynotes.MainActivity.this.MainMenuItem_4_Deleteallnotes_enable)
+this.TextView_9_dialogTitle_visibility == \old(mynotes.MainActivity.this.MainMenuItem_5_About_visibility)
+this.TextView_9_dialogTitle_visibility == \old(mynotes.MainActivity.this.MainMenuItem_5_About_enable)
+this.TextView_9_dialogTitle_text == \old(this.TextView_9_dialogTitle_text)
+this.TextView_9_dialogTitle_text.toString().equals(\old(this.TextView_9_dialogTitle_text.toString()))
+this.Button_10_button2_text == \old(this.Button_10_button2_text)
+this.Button_10_button2_text.toString().equals(\old(this.Button_10_button2_text.toString()))
+this.Button_11_button3_text == \old(this.Button_11_button3_text)
+this.Button_11_button3_text.toString().equals(\old(this.Button_11_button3_text.toString()))
+mynotes.MainActivity.this.TextView_2_textview2_text == \old(mynotes.MainActivity.this.TextView_2_textview2_text)
+mynotes.MainActivity.this.TextView_2_textview2_text.toString().equals(\old(mynotes.MainActivity.this.TextView_2_textview2_text.toString()))
+===========================================================================
+mynotes.MainActivity$DeleteNotesDialog.DeleteNotesDialog(mynotes.MainActivity):::ENTER
+mynotes.MainActivity.this.FloatingActionButton_1_add_Note_visibility == mynotes.MainActivity.this.FloatingActionButton_1_add_Note_enable
+mynotes.MainActivity.this.FloatingActionButton_1_add_Note_visibility == mynotes.MainActivity.this.TextView_2_textview2_visibility
+mynotes.MainActivity.this.FloatingActionButton_1_add_Note_visibility == mynotes.MainActivity.this.TextView_2_textview2_enable
+mynotes.MainActivity.this.FloatingActionButton_1_add_Note_visibility == mynotes.MainActivity.this.ListView_3_notesListView_visibility
+mynotes.MainActivity.this.FloatingActionButton_1_add_Note_visibility == mynotes.MainActivity.this.MainMenuItem_4_Deleteallnotes_visibility
+mynotes.MainActivity.this.FloatingActionButton_1_add_Note_visibility == mynotes.MainActivity.this.MainMenuItem_4_Deleteallnotes_enable
+mynotes.MainActivity.this.FloatingActionButton_1_add_Note_visibility == mynotes.MainActivity.this.MainMenuItem_5_About_visibility
+mynotes.MainActivity.this.FloatingActionButton_1_add_Note_visibility == mynotes.MainActivity.this.MainMenuItem_5_About_enable
+mynotes.MainActivity.this.FloatingActionButton_1_add_Note_visibility == true
+mynotes.MainActivity.this.TextView_2_textview2_text != null
+mynotes.MainActivity.this.TextView_2_textview2_text != null
+mynotes.MainActivity.this.TextView_2_textview2_text.toString().equals("There're no notes to display...")
+===========================================================================
+mynotes.MainActivity$DeleteNotesDialog.DeleteNotesDialog(mynotes.MainActivity):::EXIT
+this.TextView_9_dialogTitle_visibility == \old(mynotes.MainActivity.this.FloatingActionButton_1_add_Note_visibility)
+this.TextView_9_dialogTitle_visibility == \old(mynotes.MainActivity.this.FloatingActionButton_1_add_Note_enable)
+this.TextView_9_dialogTitle_visibility == \old(mynotes.MainActivity.this.TextView_2_textview2_visibility)
+this.TextView_9_dialogTitle_visibility == \old(mynotes.MainActivity.this.TextView_2_textview2_enable)
+this.TextView_9_dialogTitle_visibility == \old(mynotes.MainActivity.this.ListView_3_notesListView_visibility)
+this.TextView_9_dialogTitle_visibility == \old(mynotes.MainActivity.this.MainMenuItem_4_Deleteallnotes_visibility)
+this.TextView_9_dialogTitle_visibility == \old(mynotes.MainActivity.this.MainMenuItem_4_Deleteallnotes_enable)
+this.TextView_9_dialogTitle_visibility == \old(mynotes.MainActivity.this.MainMenuItem_5_About_visibility)
+this.TextView_9_dialogTitle_visibility == \old(mynotes.MainActivity.this.MainMenuItem_5_About_enable)
+mynotes.MainActivity.this.TextView_2_textview2_text == \old(mynotes.MainActivity.this.TextView_2_textview2_text)
+mynotes.MainActivity.this.TextView_2_textview2_text.toString().equals(\old(mynotes.MainActivity.this.TextView_2_textview2_text.toString()))
+===========================================================================
+mynotes.MainActivity:::OBJECT
+this.FloatingActionButton_1_add_Note_visibility == this.FloatingActionButton_1_add_Note_enable
+this.FloatingActionButton_1_add_Note_visibility == this.TextView_2_textview2_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.TextView_2_textview2_enable
+this.FloatingActionButton_1_add_Note_visibility == this.ListView_3_notesListView_visibility
+this.MainMenuItem_4_Deleteallnotes_visibility == this.MainMenuItem_4_Deleteallnotes_enable
+this.MainMenuItem_4_Deleteallnotes_visibility == this.MainMenuItem_5_About_visibility
+this.MainMenuItem_4_Deleteallnotes_visibility == this.MainMenuItem_5_About_enable
+this.TextView_2_textview2_text.toString().equals("There're no notes to display...")
+this.ListView_3_notesListView_size >= 0
+===========================================================================
+mynotes.MainActivity.MainActivity():::EXIT
+===========================================================================
+mynotes.MainActivity.add_Note_OnClick():::ENTER
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_enable
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_enable
+this.FloatingActionButton_1_add_Note_visibility == true
+this.TextView_2_textview2_text != null
+this.TextView_2_textview2_text != null
+===========================================================================
+mynotes.MainActivity.add_Note_OnClick():::EXIT
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_enable
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_enable
+this.FloatingActionButton_1_add_Note_visibility == \old(this.FloatingActionButton_1_add_Note_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.FloatingActionButton_1_add_Note_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.TextView_2_textview2_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.TextView_2_textview2_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.ListView_3_notesListView_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.MainMenuItem_4_Deleteallnotes_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.MainMenuItem_4_Deleteallnotes_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.MainMenuItem_5_About_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.MainMenuItem_5_About_enable)
+this.TextView_2_textview2_text == \old(this.TextView_2_textview2_text)
+this.TextView_2_textview2_text.toString().equals(\old(this.TextView_2_textview2_text.toString()))
+this.ListView_3_notesListView_size == \old(this.ListView_3_notesListView_size)
+this.FloatingActionButton_1_add_Note_visibility == true
+this.TextView_2_textview2_text != null
+this.TextView_2_textview2_text != null
+===========================================================================
+mynotes.MainActivity.deleteAllNotes():::ENTER
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_enable
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_enable
+this.FloatingActionButton_1_add_Note_visibility == true
+this.TextView_2_textview2_text != null
+this.TextView_2_textview2_text != null
+===========================================================================
+mynotes.MainActivity.deleteAllNotes():::EXIT
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_enable
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_enable
+this.FloatingActionButton_1_add_Note_visibility == \old(this.FloatingActionButton_1_add_Note_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.FloatingActionButton_1_add_Note_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.TextView_2_textview2_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.TextView_2_textview2_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.ListView_3_notesListView_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.MainMenuItem_4_Deleteallnotes_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.MainMenuItem_4_Deleteallnotes_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.MainMenuItem_5_About_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.MainMenuItem_5_About_enable)
+this.TextView_2_textview2_text == \old(this.TextView_2_textview2_text)
+this.TextView_2_textview2_text.toString().equals(\old(this.TextView_2_textview2_text.toString()))
+this.ListView_3_notesListView_size == \old(this.ListView_3_notesListView_size)
+this.FloatingActionButton_1_add_Note_visibility == true
+this.TextView_2_textview2_text != null
+this.TextView_2_textview2_text != null
+===========================================================================
+mynotes.MainActivity.menu.findItem(R.id.action_about)_onMenuItemClick():::ENTER
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_enable
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_enable
+this.FloatingActionButton_1_add_Note_visibility == true
+this.TextView_2_textview2_text != null
+this.ListView_3_notesListView_size >= 0 
+===========================================================================
+mynotes.MainActivity.menu.findItem(R.id.action_about)_onMenuItemClick():::EXIT
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_enable
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_enable
+this.FloatingActionButton_1_add_Note_visibility == \old(this.FloatingActionButton_1_add_Note_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.FloatingActionButton_1_add_Note_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.TextView_2_textview2_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.TextView_2_textview2_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.ListView_3_notesListView_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.MainMenuItem_4_Deleteallnotes_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.MainMenuItem_4_Deleteallnotes_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.MainMenuItem_5_About_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.MainMenuItem_5_About_enable)
+this.TextView_2_textview2_text == \old(this.TextView_2_textview2_text)
+this.TextView_2_textview2_text.toString().equals(\old(this.TextView_2_textview2_text.toString()))
+this.ListView_3_notesListView_size == \old(this.ListView_3_notesListView_size)
+this.FloatingActionButton_1_add_Note_visibility == true
+this.TextView_2_textview2_text != null
+this.ListView_3_notesListView_size == \old(this.ListView_3_notesListView_size)
+===========================================================================
+mynotes.MainActivity.menu.findItem(R.id.action_delete_all)_onMenuItemClick():::ENTER
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_enable
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_enable
+this.FloatingActionButton_1_add_Note_visibility == true
+this.TextView_2_textview2_text != null
+this.TextView_2_textview2_text != null
+===========================================================================
+mynotes.MainActivity.menu.findItem(R.id.action_delete_all)_onMenuItemClick():::EXIT
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_enable
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_enable
+this.FloatingActionButton_1_add_Note_visibility == \old(this.FloatingActionButton_1_add_Note_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.FloatingActionButton_1_add_Note_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.TextView_2_textview2_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.TextView_2_textview2_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.ListView_3_notesListView_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.MainMenuItem_4_Deleteallnotes_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.MainMenuItem_4_Deleteallnotes_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.MainMenuItem_5_About_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.MainMenuItem_5_About_enable)
+this.TextView_2_textview2_text == \old(this.TextView_2_textview2_text)
+this.TextView_2_textview2_text.toString().equals(\old(this.TextView_2_textview2_text.toString()))
+this.ListView_3_notesListView_size == \old(this.ListView_3_notesListView_size)
+this.FloatingActionButton_1_add_Note_visibility == true
+this.TextView_2_textview2_text != null
+this.TextView_2_textview2_text != null
+===========================================================================
+mynotes.MainActivity.notesListView_onItemClick():::ENTER
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_enable
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_enable
+this.FloatingActionButton_1_add_Note_visibility == true
+this.TextView_2_textview2_text != null
+this.TextView_2_textview2_text != null
+this.ListView_3_notesListView_size >= 1
+===========================================================================
+mynotes.MainActivity.notesListView_onItemClick():::EXIT
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_enable
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_enable
+this.FloatingActionButton_1_add_Note_visibility == \old(this.FloatingActionButton_1_add_Note_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.FloatingActionButton_1_add_Note_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.TextView_2_textview2_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.TextView_2_textview2_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.ListView_3_notesListView_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.MainMenuItem_4_Deleteallnotes_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.MainMenuItem_4_Deleteallnotes_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.MainMenuItem_5_About_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.MainMenuItem_5_About_enable)
+this.TextView_2_textview2_text == \old(this.TextView_2_textview2_text)
+this.TextView_2_textview2_text.toString().equals(\old(this.TextView_2_textview2_text.toString()))
+this.ListView_3_notesListView_size == \old(this.ListView_3_notesListView_size)
+this.FloatingActionButton_1_add_Note_visibility == true
+this.TextView_2_textview2_text != null
+this.TextView_2_textview2_text != null
+===========================================================================
+mynotes.MainActivity.notesListView_onItemLongClick():::ENTER
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_enable
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_enable
+this.FloatingActionButton_1_add_Note_visibility == true
+this.TextView_2_textview2_text != null
+this.TextView_2_textview2_text != null
+this.ListView_3_notesListView_size >= 1
+===========================================================================
+mynotes.MainActivity.notesListView_onItemLongClick():::EXIT
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_enable
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_enable
+this.FloatingActionButton_1_add_Note_visibility == \old(this.FloatingActionButton_1_add_Note_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.FloatingActionButton_1_add_Note_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.TextView_2_textview2_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.TextView_2_textview2_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.ListView_3_notesListView_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.MainMenuItem_4_Deleteallnotes_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.MainMenuItem_4_Deleteallnotes_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.MainMenuItem_5_About_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.MainMenuItem_5_About_enable)
+this.TextView_2_textview2_text == \old(this.TextView_2_textview2_text)
+this.TextView_2_textview2_text.toString().equals(\old(this.TextView_2_textview2_text.toString()))
+this.ListView_3_notesListView_size == \old(this.ListView_3_notesListView_size)
+this.FloatingActionButton_1_add_Note_visibility == true
+this.TextView_2_textview2_text != null
+this.TextView_2_textview2_text != null
+this.ListView_3_notesListView_size >= 1
+===========================================================================
+mynotes.MainActivity.onActivityResult():::ENTER
+this.FloatingActionButton_1_add_Note_visibility == true
+this.TextView_2_textview2_text != null
+this.TextView_2_textview2_text != null
+this.ListView_3_notesListView_size == 0
+this.MainMenuItem_4_Deleteallnotes_visibility == false
+===========================================================================
+mynotes.MainActivity.onActivityResult():::EXIT
+this.FloatingActionButton_1_add_Note_visibility == \old(this.FloatingActionButton_1_add_Note_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.FloatingActionButton_1_add_Note_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.TextView_2_textview2_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.TextView_2_textview2_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.ListView_3_notesListView_visibility)
+this.TextView_2_textview2_text == \old(this.TextView_2_textview2_text)
+this.TextView_2_textview2_text.toString().equals(\old(this.TextView_2_textview2_text.toString()))
+this.ListView_3_notesListView_size == \old(this.ListView_3_notesListView_size)
+this.MainMenuItem_4_Deleteallnotes_visibility == \old(this.MainMenuItem_4_Deleteallnotes_visibility)
+this.MainMenuItem_4_Deleteallnotes_visibility == \old(this.MainMenuItem_4_Deleteallnotes_enable)
+this.MainMenuItem_4_Deleteallnotes_visibility == \old(this.MainMenuItem_5_About_visibility)
+this.MainMenuItem_4_Deleteallnotes_visibility == \old(this.MainMenuItem_5_About_enable)
+this.FloatingActionButton_1_add_Note_visibility == true
+this.TextView_2_textview2_text != null
+this.TextView_2_textview2_text != null
+this.ListView_3_notesListView_size == 0
+this.MainMenuItem_4_Deleteallnotes_visibility == false
+===========================================================================
+mynotes.MainActivity.onCreate():::ENTER
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_enable
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_enable
+this.FloatingActionButton_1_add_Note_visibility == false
+this.TextView_2_textview2_text == null
+this.ListView_3_notesListView_size == 0
+===========================================================================
+mynotes.MainActivity.onCreate():::EXIT
+this.ListView_3_notesListView_size == \old(this.ListView_3_notesListView_size)
+this.MainMenuItem_4_Deleteallnotes_visibility == \old(this.FloatingActionButton_1_add_Note_visibility)
+this.MainMenuItem_4_Deleteallnotes_visibility == \old(this.FloatingActionButton_1_add_Note_enable)
+this.MainMenuItem_4_Deleteallnotes_visibility == \old(this.TextView_2_textview2_visibility)
+this.MainMenuItem_4_Deleteallnotes_visibility == \old(this.TextView_2_textview2_enable)
+this.MainMenuItem_4_Deleteallnotes_visibility == \old(this.ListView_3_notesListView_visibility)
+this.MainMenuItem_4_Deleteallnotes_visibility == \old(this.MainMenuItem_4_Deleteallnotes_visibility)
+this.MainMenuItem_4_Deleteallnotes_visibility == \old(this.MainMenuItem_4_Deleteallnotes_enable)
+this.MainMenuItem_4_Deleteallnotes_visibility == \old(this.MainMenuItem_5_About_visibility)
+this.MainMenuItem_4_Deleteallnotes_visibility == \old(this.MainMenuItem_5_About_enable)
+this.FloatingActionButton_1_add_Note_visibility == true
+this.TextView_2_textview2_text != null
+this.TextView_2_textview2_text != null
+this.ListView_3_notesListView_size == 0
+this.MainMenuItem_4_Deleteallnotes_visibility == false
+===========================================================================
+mynotes.MainActivity.onCreateLoader():::ENTER
+this.FloatingActionButton_1_add_Note_visibility == true
+this.TextView_2_textview2_text != null
+this.TextView_2_textview2_text != null
+===========================================================================
+mynotes.MainActivity.onCreateLoader():::EXIT
+this.FloatingActionButton_1_add_Note_visibility == \old(this.FloatingActionButton_1_add_Note_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.FloatingActionButton_1_add_Note_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.TextView_2_textview2_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.TextView_2_textview2_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.ListView_3_notesListView_visibility)
+this.TextView_2_textview2_text == \old(this.TextView_2_textview2_text)
+this.TextView_2_textview2_text.toString().equals(\old(this.TextView_2_textview2_text.toString()))
+this.ListView_3_notesListView_size == \old(this.ListView_3_notesListView_size)
+this.MainMenuItem_4_Deleteallnotes_visibility == \old(this.MainMenuItem_4_Deleteallnotes_visibility)
+this.MainMenuItem_4_Deleteallnotes_visibility == \old(this.MainMenuItem_4_Deleteallnotes_enable)
+this.MainMenuItem_4_Deleteallnotes_visibility == \old(this.MainMenuItem_5_About_visibility)
+this.MainMenuItem_4_Deleteallnotes_visibility == \old(this.MainMenuItem_5_About_enable)
+this.FloatingActionButton_1_add_Note_visibility == true
+this.TextView_2_textview2_text != null
+this.TextView_2_textview2_text != null
+===========================================================================
+mynotes.MainActivity.onCreateOptionsMenu():::ENTER
+this.FloatingActionButton_1_add_Note_visibility == true
+this.TextView_2_textview2_text != null
+this.TextView_2_textview2_text != null
+this.MainMenuItem_4_Deleteallnotes_visibility == false
+===========================================================================
+mynotes.MainActivity.onCreateOptionsMenu():::EXIT
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_enable
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_enable
+this.FloatingActionButton_1_add_Note_visibility == \old(this.FloatingActionButton_1_add_Note_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.FloatingActionButton_1_add_Note_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.TextView_2_textview2_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.TextView_2_textview2_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.ListView_3_notesListView_visibility)
+this.TextView_2_textview2_text == \old(this.TextView_2_textview2_text)
+this.TextView_2_textview2_text.toString().equals(\old(this.TextView_2_textview2_text.toString()))
+this.ListView_3_notesListView_size == \old(this.ListView_3_notesListView_size)
+this.FloatingActionButton_1_add_Note_visibility == true
+this.TextView_2_textview2_text != null
+this.TextView_2_textview2_text != null
+===========================================================================
+mynotes.MainActivity.onLoadFinished():::ENTER
+this.FloatingActionButton_1_add_Note_visibility == true
+this.TextView_2_textview2_text != null
+this.TextView_2_textview2_text != null
+===========================================================================
+mynotes.MainActivity.onLoadFinished():::EXIT
+this.FloatingActionButton_1_add_Note_visibility == \old(this.FloatingActionButton_1_add_Note_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.FloatingActionButton_1_add_Note_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.TextView_2_textview2_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.TextView_2_textview2_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.ListView_3_notesListView_visibility)
+this.TextView_2_textview2_text == \old(this.TextView_2_textview2_text)
+this.TextView_2_textview2_text.toString().equals(\old(this.TextView_2_textview2_text.toString()))
+this.MainMenuItem_4_Deleteallnotes_visibility == \old(this.MainMenuItem_4_Deleteallnotes_visibility)
+this.MainMenuItem_4_Deleteallnotes_visibility == \old(this.MainMenuItem_4_Deleteallnotes_enable)
+this.MainMenuItem_4_Deleteallnotes_visibility == \old(this.MainMenuItem_5_About_visibility)
+this.MainMenuItem_4_Deleteallnotes_visibility == \old(this.MainMenuItem_5_About_enable)
+this.FloatingActionButton_1_add_Note_visibility == true
+this.TextView_2_textview2_text != null
+this.TextView_2_textview2_text != null
+===========================================================================
+mynotes.MainActivity.onLoaderReset():::ENTER
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_enable
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_enable
+this.FloatingActionButton_1_add_Note_visibility == true
+this.TextView_2_textview2_text != null
+this.TextView_2_textview2_text != null
+===========================================================================
+mynotes.MainActivity.onLoaderReset():::EXIT
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_enable
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_enable
+this.FloatingActionButton_1_add_Note_visibility == \old(this.FloatingActionButton_1_add_Note_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.FloatingActionButton_1_add_Note_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.TextView_2_textview2_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.TextView_2_textview2_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.ListView_3_notesListView_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.MainMenuItem_4_Deleteallnotes_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.MainMenuItem_4_Deleteallnotes_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.MainMenuItem_5_About_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.MainMenuItem_5_About_enable)
+this.TextView_2_textview2_text == \old(this.TextView_2_textview2_text)
+this.TextView_2_textview2_text.toString().equals(\old(this.TextView_2_textview2_text.toString()))
+this.FloatingActionButton_1_add_Note_visibility == true
+this.TextView_2_textview2_text != null
+this.TextView_2_textview2_text != null
+this.ListView_3_notesListView_size == 0
+this.ListView_3_notesListView_size <= \old(this.ListView_3_notesListView_size)
+===========================================================================
+mynotes.MainActivity.openEditorForNewNote():::ENTER
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_enable
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_enable
+this.FloatingActionButton_1_add_Note_visibility == true
+this.TextView_2_textview2_text != null
+this.TextView_2_textview2_text != null
+===========================================================================
+mynotes.MainActivity.openEditorForNewNote():::EXIT
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_4_Deleteallnotes_enable
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_visibility
+this.FloatingActionButton_1_add_Note_visibility == this.MainMenuItem_5_About_enable
+this.FloatingActionButton_1_add_Note_visibility == \old(this.FloatingActionButton_1_add_Note_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.FloatingActionButton_1_add_Note_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.TextView_2_textview2_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.TextView_2_textview2_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.ListView_3_notesListView_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.MainMenuItem_4_Deleteallnotes_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.MainMenuItem_4_Deleteallnotes_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.MainMenuItem_5_About_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.MainMenuItem_5_About_enable)
+this.TextView_2_textview2_text == \old(this.TextView_2_textview2_text)
+this.TextView_2_textview2_text.toString().equals(\old(this.TextView_2_textview2_text.toString()))
+this.ListView_3_notesListView_size == \old(this.ListView_3_notesListView_size)
+this.FloatingActionButton_1_add_Note_visibility == true
+this.TextView_2_textview2_text != null
+this.TextView_2_textview2_text != null
+===========================================================================
+mynotes.MainActivity.restartLoader():::ENTER
+this.FloatingActionButton_1_add_Note_visibility == true
+this.TextView_2_textview2_text != null
+this.TextView_2_textview2_text != null
+===========================================================================
+mynotes.MainActivity.restartLoader():::EXIT
+this.FloatingActionButton_1_add_Note_visibility == \old(this.FloatingActionButton_1_add_Note_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.FloatingActionButton_1_add_Note_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.TextView_2_textview2_visibility)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.TextView_2_textview2_enable)
+this.FloatingActionButton_1_add_Note_visibility == \old(this.ListView_3_notesListView_visibility)
+this.TextView_2_textview2_text == \old(this.TextView_2_textview2_text)
+this.TextView_2_textview2_text.toString().equals(\old(this.TextView_2_textview2_text.toString()))
+this.ListView_3_notesListView_size == \old(this.ListView_3_notesListView_size)
+this.MainMenuItem_4_Deleteallnotes_visibility == \old(this.MainMenuItem_4_Deleteallnotes_visibility)
+this.MainMenuItem_4_Deleteallnotes_visibility == \old(this.MainMenuItem_4_Deleteallnotes_enable)
+this.MainMenuItem_4_Deleteallnotes_visibility == \old(this.MainMenuItem_5_About_visibility)
+this.MainMenuItem_4_Deleteallnotes_visibility == \old(this.MainMenuItem_5_About_enable)
+this.FloatingActionButton_1_add_Note_visibility == true
+this.TextView_2_textview2_text != null
+this.TextView_2_textview2_text != null
